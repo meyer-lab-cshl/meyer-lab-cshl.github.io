@@ -3,6 +3,19 @@ title: Meyer Lab
 email: hmeyer@cshl.edu
 url: https://example.github.io
 
+setup:
+  - name: Home
+    link: home
+  - name: People
+    link: people
+  - name: Research
+    link: research
+  - name: Publications
+    link: publications
+  - name: Software
+    link: software
+  - name: Contact
+    link: contact
 
 # Color settings (hex-codes without the leading hash-tag)
 color:

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header_pages.html %}
+
+    <div class="row">
+        <div class="col-lg-3"></div>
+
+        <div class="col-lg-6">
+            {{ content }}
+        </div>
+
+        <div class="col-lg-3"></div>
+    </div>
+
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

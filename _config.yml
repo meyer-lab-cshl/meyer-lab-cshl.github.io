@@ -17,6 +17,12 @@ setup:
   - name: Contact
     link: contact
 
+social:
+  - title: twitter
+    url: http://twitter.com/HannahVMeyer
+  - title: github
+    url: https://github.com/meyer-lab-cshl
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ffffff #86bda6
@@ -29,11 +35,13 @@ color:
 # Postal address (add as many lines as necessary)
 address:
   - line: Simons Center for Quantitative Biology
+    url: https://www.cshl.edu/research/quantitative-biology/
   - line: Cold Spring Harbor Laboratory
+    url: https://www.cshl.edu/
   - line: Cold Spring Harbor, NY 11724
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Webpage built using Freelancer by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # include
 include: ["_pages"]

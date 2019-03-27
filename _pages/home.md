@@ -22,3 +22,16 @@ and how antigen distribution in the thymus affects epithelial-T cell interaction
 To understand cellular integrity mechanisms in thymic epithelial cells,
 we conduct research on the spatio-temporal organisation of promiscuous gene expression on a per-cell
 level.
+
+<!--
+<div class="container">
+    <div class="row">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8">
+            <span style="font-size:2em; font-weight:700; display:block; color:{{ site.color.primary }}" ><strong>News</strong></span>
+            <hr>
+        </div>
+        <div class="col-lg-2"></div>
+    </div>
+</div>
+-->

@@ -12,12 +12,37 @@
                 <li class="hidden">
                     <a href="#page-top"></a>
                 </li>
+                <li class="page-scroll">
+                    <a href="/home/" {% if page.url=="/home/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        Home</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="/people/" {% if page.url=="/people/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        People</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="/research/" {% if page.url=="/research/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        Research</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="/publications/" {% if page.url=="/publications/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        Publications</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="/software" {% if page.url=="/software/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        Software</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="/contact/" {% if page.url=="/contact/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        Contact</a>
+                <!--
                 {% for item in site.setup %}
                     <li class="page-scroll">
-                        <a href="/{{ item.link }}/" {% if page.url=="/{{ item.link }}/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        <a href="/{{ item.link }}/" {% if page.url=="/item.link/" %}style="color: #{{ site.color.active }}";{% endif %}>
                         {{ item.name }}</a>
                     </li>
                {% endfor %}
+                -->
             </ul>
         </div>
     </div>

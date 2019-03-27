@@ -2,33 +2,37 @@
 <footer class="text-center">
     <div class="footer-above">
         <div class="container">
+            <hr class="footer">
             <div class="row">
+                <div class="footer-col col-md-2"></div>
                 <div class="footer-col col-md-4">
-                    <h3>{{ site.footer.location }}</h3>
                     <p>
-                        {% for adress in site.address %}
-                        {{ adress.line }} <br>
+                        {% for address in site.address %}
+                            {% if address.url %}
+                                <a href="{{ address.url }}">{{ address.line }}</a><br>
+                            {% else %}
+                                {{ address.line }}<br>
+                            {% endif %}
                         {% endfor %}
                     </p>
                 </div>
                 <div class="footer-col col-md-4">
-                    <h3>{{ site.footer.social }}</h3>
                     <ul class="list-inline">
                         {% for network in site.social %}
                         <li>
-                            <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                            <a href="{{ network.url }}"><i class="fa fa-{{ network.title }} aria-hidden="true""></i></a>
                         </li>
                         {% endfor %}
                     </ul>
                 </div>
+                <div class="footer-col col-md-2"></div>
             </div>
         </div>
     </div>
     <div class="footer-below">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h3>{{ site.footer.credits }}</h3>
+       <div class="container">
+           <div class="row">
+               <div class="col-lg-12">
                     <p>{{ site.credits }}</p>
                 </div>
             </div>

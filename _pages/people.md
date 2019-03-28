@@ -10,8 +10,8 @@ permalink: /people/
     <div class="desc">
     <strong>Hannah Meyer, QB Fellow</strong><br>
     Hannah is the lab’s principal investigator. She received a B.Sc. and M.Sc. from
-    the University of Heidelberg before she started her Ph.D. in Ewan Birney's research group
-    at the European Bioinformatics Institute/University of Cambridge. After graduation, Hannah
+    Heidelberg University before she started her Ph.D. in Ewan Birney's research group
+    at the European Bioinformatics Institute (EMBL-EBI), University of Cambridge. After graduation, Hannah
     started her independent research group at CSHL.
     </div>
   </div>

@@ -5,8 +5,8 @@ permalink: /contact/
 image: /img/heterogeneity.png
 ---
 
-The Meyer Lab is located on the first floor of
-the Koch Building at CSHL.
+The Meyer Lab is located on the first  
+floor of the Koch Building at CSHL.
 
 1 Bungtown Road  
 Koch Laboratory #115  

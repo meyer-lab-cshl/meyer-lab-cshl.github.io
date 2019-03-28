@@ -16,4 +16,13 @@ permalink: /people/
     </div>
   </div>
 </div>
+<div class="responsive">
+  <div class="gallery">
+    <img src="/img/idee.jpg" alt="" width="800" height="400">
+    <div class="desc">
+    <strong>Idee Mallardi</strong><br>
+    Idee is the administrative assistant of the Meyer lab.
+    </div>
+  </div>
+</div>
 

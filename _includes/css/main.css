@@ -37,6 +37,10 @@ h6 {
     font-weight: 700;
 }
 
+.float-right {
+    float: right;
+    width: 65%;
+}
 
 .img-centered {
     margin: 0 auto;

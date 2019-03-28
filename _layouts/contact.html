@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header_pages.html %}
+
+    <div class="row" style="padding: 25px 50px 75px 50px">
+        <div class="col-lg-2"></div>
+
+        <div class="col-lg-8">
+            <iframe class="float-right" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6035.1239247092235!2d-73.47367516528973!3d40.859540098707235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c282a1c174d69f%3A0x5f02a2b61a064d57!2sKoch+Laboratory%2C+1+Bungtown+Rd%2C+Syosset%2C+NY+11791!5e0!3m2!1sen!2sus!4v1553778919013" width="450" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            {{ content }}
+        </div>
+        <div class="col-lg-2"></div>
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

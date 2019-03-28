@@ -122,9 +122,17 @@ header .intro-text .name {
     }
 }
 
+.navbar {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    min-height: 80px;
+}
+
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
+        line-height: 20px;
     }
 
     .navbar-fixed-top .navbar-brand {
@@ -140,11 +148,6 @@ header .intro-text .name {
     }
 }
 
-.navbar {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-}
 
 .navbar a:focus {
     outline: 0;

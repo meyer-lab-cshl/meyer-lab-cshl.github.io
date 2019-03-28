@@ -2,7 +2,7 @@
 layout: contact
 title: Contact
 permalink: /contact/
-image: /img/heterogeneity.png
+image: /img/view.png
 ---
 
 The Meyer Lab is located on the first  

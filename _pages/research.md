@@ -17,7 +17,7 @@ image: /img/thymus.png
         against T cells that show a strong binding to self-antigens (negative selection).
         Positive selection takes place on cortical TECs, whereas negative selection largely
         depends on the antigen-presentation of TECs in the thymic medulla. Collectively, these
-        medullary TECs express over 85\% of all protein coding genes, while each antigen
+        medullary TECs express over 85% of all protein coding genes, while each antigen
         is expressed by a fraction of cells. This phenomenon termed promiscuous gene expression
         imposes T cell tolerance by making self-antigens, which are otherwise expressed in
         a spatially or temporally restricted manner, continuously accessible to developing T cells.

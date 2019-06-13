@@ -37,6 +37,10 @@ h6 {
     font-weight: 700;
 }
 
+.circular {
+    border-radius:50%
+}
+
 .float-right {
     float: right;
     width: 65%;

@@ -31,6 +31,17 @@ permalink: /people/
 
 <div class="responsive">
   <div class="gallery">
+    <img src="/img/vyom.jpg" class="circular" alt="" width="800" height="400">
+    <div class="desc">
+        <strong>Vyom Shah</strong><br>
+        Vyom is a high school volunteer. He joined the lab for an independent student research project, conducting single-cell RNAseq analysis of intestinal organoids.
+    </div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
     <img src="/img/idee-square.jpg" class="circular" alt="" width="800" height="400">
     <div class="desc">
     <strong>Idee Mallardi</strong><br>

@@ -11,7 +11,7 @@ image: /img/thymus.png
     <div class="col-lg-3" >
         <img class="img-responsive" style="float: left; padding-right:15px;" src="/img/heterogeneity.png">
     </div>
-    <div class="col-lg-6">
+    <div class="col-lg-8">
         In the thymus, blood-borne T cell progenitors interact with thymic epithelial cells (TECs)
         to select for T cells with functional T cell receptors (positive selection) and select
         against T cells that show a strong binding to self-antigens (negative selection).
@@ -34,7 +34,7 @@ image: /img/thymus.png
     <div class="col-lg-3">
         <img class="img-responsive" style="float: left; padding-right:15px;" src="/img/antigen.png">
     </div>
-    <div class="col-lg-6">
+    <div class="col-lg-8">
         Central T cell tolerance relies on the thymic epithelium to present peripheral
         proteins to developing T cells. However, it remains unknown how the thymic
         epithelial cells maintain their integrity despite expressing peripheral

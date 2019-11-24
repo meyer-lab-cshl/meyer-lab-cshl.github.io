@@ -6,14 +6,16 @@ url: https://example.github.io
 setup:
   - name: Home
     link: home
-  - name: People
-    link: people
   - name: Research
     link: research
-  - name: Publications
-    link: publications
   - name: Software
     link: software
+  - name: Publications
+    link: publications
+  - name: Join
+    link: join
+  - name: People
+    link: people
   - name: Contact
     link: contact
 

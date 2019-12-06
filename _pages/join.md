@@ -36,7 +36,7 @@ ___
     </div>
     <div class="col-lg-8">
         <p>
-        CSHL provides a warm, collegial, and highly collaborative scientific environment. In addition, its <i>Meetings and Courses</i> program provides an opportunity for interacting with a broad range of researchers across the spectrum of biological sciences (visit <a>https://www.cshl.edu/education/postdoc-resources/</a> for details).
+        CSHL provides a warm, collegial, and highly collaborative scientific environment. In addition, its <i>Meetings and Courses</i> program provides an opportunity for interacting with a broad range of researchers across the spectrum of biological sciences (visit <a href="https://www.cshl.edu/education/postdoc-resources/">postdoc-resources</a> for details).
         </p>
         <p>
         CSHL offers a competitive salary and comprehensive benefits program, including medical and dental insurance, and access to an affordable and licensed on-site childcare center.

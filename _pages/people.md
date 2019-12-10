@@ -5,6 +5,8 @@ permalink: /people/
 ---
 
 <div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
     <div class="responsive">
       <div class="gallery">
         <img src="/img/hannah-square.jpg" class="circular" alt="" width="800" height="400">
@@ -42,10 +44,6 @@ permalink: /people/
         </div>
       </div>
     </div>
-</div>
-
-
-<div class="row">
     <div class="responsive">
       <div class="gallery">
         <img src="/img/lily.jpg" class="circular" alt="" width="800" height="400">
@@ -57,6 +55,13 @@ permalink: /people/
         </div>
       </div>
     </div>
+        </div>
+</div>
+
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
 
     <div class="responsive">
       <div class="gallery">
@@ -67,4 +72,5 @@ permalink: /people/
         </div>
       </div>
     </div>
+        </div>
 </div>

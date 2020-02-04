@@ -12,7 +12,7 @@ ___
     </div>
     <div class="col-lg-8">
         <p>
-            <a href="https://github.com/meyer-lab-cshl/Teaching/tree/master/R-data-visualisation-course">R data visualisation course</a><br>
+            <a href="https://github.com/meyer-lab-cshl/R-data-visualisation-course">R data visualisation course</a><br>
             Beginner's course for data visualisation and analysis in R.
             It covers setting up R/RStudio, the basics of data visualisation and compound figure
             design as well as data transformation using the R tidyverse - all by

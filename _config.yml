@@ -12,6 +12,8 @@ setup:
     link: software
   - name: Publications
     link: publications
+  - name: Teaching
+    link: Teaching
   - name: Join
     link: join
   - name: People

@@ -13,11 +13,8 @@ ___
     </div>
     <div class="col-lg-8">
         <p>
-        The Meyer lab has immediate openings for postdoctoral fellows, international graduate students, and visiting scientists:
-        <ul>
-        <li><a href="https://cshl.peopleadmin.com/postings/16477">Postdoc Systems Immunology</a></li>
-        <li><a href="https://cshl.peopleadmin.com/postings/16459">Postdoc Developmental Immunology</a></li>
-        </ul>
+        The Meyer lab has immediate openings for <a href="https://cshl.peopleadmin.com/postings/16366">postdoctoral fellows</a>,
+        international graduate students, and visiting scientists.
         We are looking for lab members with a background in immunology, computational biology/mathematics/computer science or equivalent.
         We seek individuals that exhibit resourcefulness and independence, are willing to take the lead and actively drive the research project.
         </p>

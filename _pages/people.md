@@ -26,10 +26,9 @@ permalink: /people/
         <img src="/img/katie-square.jpg" class="circular" alt="" width="800" height="400">
         <div class="desc">
             <strong>Katherine Papciak</strong><br>
-            Katie is a research technician in the Meyer and Beyaz labs.
-            She received a B.Sc. from Virginia Polytechnic Institute and State University in Biological
-            Sciences with a minor in Statistics. Prior to joining CSHL, she investigated auto-inflammatory
-            diseases using wet and dry lab applications.
+            Katie is a research technician. She received a B.Sc. from Virginia Polytechnic Institute
+            and State University in Biological Sciences with a minor in Statistics. Prior to joining
+            CSHL, she investigated auto-inflammatory diseases using wet and dry lab applications.
         </div>
       </div>
     </div>

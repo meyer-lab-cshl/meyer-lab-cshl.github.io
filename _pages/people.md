@@ -6,10 +6,10 @@ permalink: /people/
 
 <div class="row">
     <div class="col-lg-2"></div>
-    <div class="col-lg-8">
+    <div class="col-lg-10">
     <div class="responsive">
       <div class="gallery">
-        <img src="/img/hannah-square.jpg" class="circular" alt="" width="800" height="400">
+        <img src="/img/hannah-square.jpg" class="circular" alt="" width="2000" height="400">
         <div class="desc" height="600">
             <strong>Hannah Meyer, CSHL Fellow</strong><br>
             Hannah is the lab’s principal investigator.
@@ -17,6 +17,18 @@ permalink: /people/
             in Ewan Birney's research group at the European Bioinformatics Institute (EMBL-EBI),
             University of Cambridge. After graduation, Hannah started her independent research
             group at CSHL.
+        </div>
+      </div>
+    </div>
+
+    <div class="responsive">
+      <div class="gallery">
+        <img src="/img/aybuke-square.jpg" class="circular" alt="" width="800" height="400">
+        <div class="desc">
+            <strong>Aybuke Garipcan</strong><br>
+            Aybuke is a Postdoctoral Fellow. She received her Ph.D from Bogazici University,
+            where she investigated the functions of NLRP7 in Embryogenesis, Inflammation and Oncogenesis.
+            In the Meyer lab, she studies T cell development in humans.
         </div>
       </div>
     </div>
@@ -32,6 +44,11 @@ permalink: /people/
         </div>
       </div>
     </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-10">
 
     <div class="responsive">
       <div class="gallery">
@@ -43,6 +60,7 @@ permalink: /people/
         </div>
       </div>
     </div>
+
     <div class="responsive">
       <div class="gallery">
         <img src="/img/lily.jpg" class="circular" alt="" width="800" height="400">
@@ -54,13 +72,6 @@ permalink: /people/
         </div>
       </div>
     </div>
-        </div>
-</div>
-
-
-<div class="row">
-    <div class="col-lg-2"></div>
-    <div class="col-lg-8">
 
     <div class="responsive">
       <div class="gallery">
@@ -71,5 +82,5 @@ permalink: /people/
         </div>
       </div>
     </div>
-        </div>
+    </div>
 </div>

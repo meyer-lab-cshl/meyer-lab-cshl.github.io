@@ -41,7 +41,53 @@ permalink: /people/
             Sarah is a Postdoctoral Fellow. She received her Ph.D. from Texas Tech University,
             where she used mathematical modeling to understand the evolution of cooperation
             among unrelated individuals. In the Meyer lab, she works on deriving a mathematical framework
-            for the development of T cells, as well as, investigate the initial evolution of clonal systems.
+            for the development of T cells.
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-10">
+    <div class="responsive">
+      <div class="gallery">
+        <img src="/img/jason-square.png" class="circular" alt="" width="800" height="400">
+        <div class="desc">
+            <strong>Jason Carter</strong><br>
+            Jason is a Stony Brook MD/PhD student. He completed his PhD in the
+            Atwal lab at CSHL using statistical modeling and single-cell
+            sequencing to study T cell receptor repertoire. In the Meyer lab,
+            he is studying the role of thymic transcription start sites in
+            promiscuous gene expression.
+        </div>
+      </div>
+    </div>
+
+    <div class="responsive">
+      <div class="gallery">
+        <img src="/img/sarahc-square.jpg" class="circular" alt="" width="800" height="400">
+        <div class="desc">
+            <strong>Sarah Chapin</strong><br>
+            Sarah is a Computational Science Developer. She received an A.B. in
+            Biomedical Engineering from Harvard University, where she worked on
+            genome-wide association studies of infectious diseases. In the Meyer
+            lab, she uses spatial transcriptomics to investigate antigen
+            presentation in the thymus.
+        </div>
+      </div>
+    </div>
+    <div class="responsive">
+      <div class="gallery">
+        <img src="/img/anushri-square.jpg" class="circular" alt="" width="800" height="400">
+        <div class="desc">
+            <strong>Anushri Arora</strong><br>
+            Anushri is a graduate intern at the Meyer lab. She is
+            interested in applying machine learning techniques that can aid in
+            methodological understanding of biological data. She has previously
+            worked on deep variational models which can infer spatial-temporal
+            dynamics between bacteria & tumor populations.
+
         </div>
       </div>
     </div>
@@ -62,20 +108,15 @@ permalink: /people/
         </div>
       </div>
     </div>
-
     <div class="responsive">
       <div class="gallery">
-        <img src="/img/caroline-square.jpg" class="circular" alt="" width="800" height="400">
+        <img src="/img/idee-square.jpg" class="circular" alt="" width="800" height="400">
         <div class="desc">
-            <strong>Caroline Walter</strong><br>
-            Caroline is an Undergraduate at Tufts University and joined the
-            Meyer lab as a summer research student. She studies metabolomics
-            and immune cell states in an endurance exercise setting.
-
+            <strong>Idee Mallardi</strong><br>
+            Idee supports our lab in all matters that relate to administration, recruitment, and organization.
         </div>
       </div>
     </div>
-
 
     <div class="responsive">
       <div class="gallery">
@@ -89,6 +130,12 @@ permalink: /people/
     </div>
 </div>
 
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-10">
+    <h2> Alumni </h2>
+    </div>
+</div>
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-10">
@@ -107,12 +154,16 @@ permalink: /people/
 
     <div class="responsive">
       <div class="gallery">
-        <img src="/img/idee-square.jpg" class="circular" alt="" width="800" height="400">
+        <img src="/img/caroline-square.jpg" class="circular" alt="" width="800" height="400">
         <div class="desc">
-            <strong>Idee Mallardi</strong><br>
-            Idee is the administrative assistant of the Meyer lab.
+            <strong>Caroline Walter</strong><br>
+            Caroline is an Undergraduate at Tufts University and joined the
+            Meyer lab as a summer research student. She studies metabolomics
+            and immune cell states in an endurance exercise setting.
+
         </div>
       </div>
     </div>
+
     </div>
 </div>

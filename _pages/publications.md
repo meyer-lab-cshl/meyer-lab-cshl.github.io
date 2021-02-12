@@ -9,20 +9,29 @@ image: /img/heterogeneity.png
 ___
 <div class="col-lg-11">
 <p>
-<b>Meyer HV</b>, Dawes TJW,  Serrani M, Bai W, Tokarczuk, P, Cai J, de Marvao A, Rueckert D, Matthews PM, Costantino ML, Birney E, Cook SA, and O’Regan, DP (2019)
-<a href="https://doi.org/10.1101/553651)">Genomic analysis reveals a functional role for myocardial trabeculae in adults</a>, <i>bioRxiv</i>
+Williams EH, Flint, TH’ Connell CM, Giglio D, Lee H, Ha T, Gablenz E, Bird N,
+Weaver JMJ, Potts H, Whitley CT, Bookman MA,  Lynch AG, <b>Meyer HV</b>, Tavaré
+S, Janowitz T (2020) <a
+href="https://clincancerres.aacrjournals.org/content/early/2020/12/08/1078-0432.CCR-20-3201">CamGFR
+v2: a new model for estimating the glomerular filtration rate from standardized
+or non standardized creatinine in patients with cancer</a>, Clinical Cancer Research
 </p>
 
+<p>
+<b>Meyer HV</b>, Dawes TJ, Serrani M, Wenjia B, Tokarczuk P, Jiashen C, de Marvao A, Henry A,
+ Lumbers RT, Gierten J, Thumberger T, Wittbrodt J, Ware JS, Rueckert D, Matthews PM, Prasad SK,
+ Costantino ML, Birney E, Cook SA and O'Regan DP (2020) <a
+ href="https://www.nature.com/articles/s41586-020-2635-8">Genetic and functional insights into the fractal
+ structure of the heart.</a> Nature, 584:589- 594
+ </p>
 
 <p>
 <b>Meyer HV</b>, Casale FP, Stegle O, Birney E (2018) <a href="https://www.biorxiv.org/content/early/2018/01/30/255497">LiMMBo: a simple, scalable approach for linear mixed models in high-dimensional genetic association studies</a>, <i>bioRxiv</I>
 </p>
 
-
 <p>
 <b>Meyer HV</b>, Birney E (2018) <a href="https://doi.org/10.1093/bioinformatics/bty197">PhenotypeSimulator: a comprehensive framework for multi-trait, multi-locus phenotype to genotype simulation</a>, <i>Bioinformatics</i>, bty197
 </p>
-
 
 <p>
 Biffi C, de Marvao A,  Attard MI, Dawes TJW, Whiffin N,  Bai W, Shi W, Francis C, <b>Meyer HV</b>, Buchan R, Cook SA, Rueckert D, O’Regan DP (2017)

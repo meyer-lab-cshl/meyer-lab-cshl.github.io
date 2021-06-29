@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ### Teaching
 ___
-<div class="row">
+<div class="row top-pad">
     <div class="col-lg-3" >
         <img class="img-responsive" style="display:block; margin-left: auto;
         margin-right: auto;
@@ -25,7 +25,7 @@ ___
     </div>
 </div>
 
-<div class="row">
+<div class="row top-pad">
     <div class="col-lg-3" >
         <img class="img-responsive" style="display:block; margin-left: auto;
         margin-right: auto;
@@ -40,7 +40,7 @@ ___
             Course for buildung  an RNAseq analysis pipeline using the
             workflow managment system snakemake. The pipeline includes
             alignment, quality control and differential expression analysis.
-            
+
             The course also contains a homework assignment to test the new
             concepts. The final pipeline and assignment results can be found
             <a
@@ -48,4 +48,3 @@ ___
         </p>
     </div>
 </div>
-

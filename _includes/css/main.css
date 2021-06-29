@@ -369,3 +369,12 @@ hr.footer {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+.bottom-pad {
+    margin-bottom: 100px;
+}
+
+.top-pad {
+    margin-top: 100px;
+}

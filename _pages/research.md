@@ -7,7 +7,7 @@ image: /img/thymus.png
 
 ### Heterogeneity of thymic gene expression
 ---
-<div class="row">
+<div class="row bottom-pad">
     <div class="col-lg-3" >
         <img class="img-responsive" style="float: left; padding-right:15px;" src="/img/heterogeneity.png">
     </div>
@@ -18,12 +18,12 @@ image: /img/thymus.png
         Positive selection takes place on cortical TECs, whereas negative selection largely
         depends on the antigen-presentation of TECs in the thymic medulla. Collectively, these
         medullary TECs express over 85% of all protein coding genes, while each antigen
-        is expressed by a fraction of cells. This phenomenon termed promiscuous gene expression
+        is expressed by a fraction of cells. This phenomenon, termed promiscuous gene expression,
         imposes T cell tolerance by making self-antigens, which are otherwise expressed in
         a spatially or temporally restricted manner, continuously accessible to developing T cells.
 
         We study how promiscuous gene expression is organised on a
-        tissue-wide level using genomics combined with computational simulations 
+        tissue-wide level using genomics combined with computational simulations
     </div>
 </div>
 
@@ -36,7 +36,7 @@ image: /img/thymus.png
     </div>
     <div class="col-lg-8">
         Central T cell tolerance relies on the thymic epithelium to present peripheral
-        proteins to developing T cells. However, it remains unknown how the thymic
+        proteins to developing T cells. However, it remains unknown how thymic
         epithelial cells maintain their integrity despite expressing peripheral
         proteins that may interfere with epithelial-specific pathways and roles.
 
@@ -45,8 +45,3 @@ image: /img/thymus.png
         expression of non-epithelial proteins.
     </div>
 </div>
-
-
-
-
-

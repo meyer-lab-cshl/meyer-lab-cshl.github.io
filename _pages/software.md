@@ -7,7 +7,7 @@ image: /img/antigen.png
 
 ### Software
 ___
-<div class="row">
+<div class="row top-pad">
     <div class="col-lg-3" >
         <img class="img-responsive" style="float: center; padding-top:30px;" src="/img/simulatedPhenotypes.png">
     </div>
@@ -23,7 +23,7 @@ ___
     </div>
 </div>
 
-<div class="row">
+<div class="row top-pad">
     <div class="col-lg-3" >
         <img class="img-responsive" style="float: center; padding-top:0px;" src="/img/qc.png">
     </div>
@@ -39,7 +39,7 @@ ___
     </div>
 </div>
 
-<div class="row">
+<div class="row top-pad">
     <div class="col-lg-3" >
         <img class="img-responsive" style="float: center; padding-top:0px;" src="/img/limmbo.png">
     </div>
@@ -51,4 +51,3 @@ ___
         </p>
     </div>
 </div>
-  

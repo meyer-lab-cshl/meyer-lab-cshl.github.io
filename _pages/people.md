@@ -30,14 +30,13 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/jason-square.png" class="circular" alt="Jason">
+        <img src="/img/salome-square.jpg" class="circular" alt="Salome">
         <div class="desc">
-            <strong>Jason Carter</strong><br>
-            Jason is a Stony Brook MD/PhD student. He completed his PhD in the
-            Atwal lab at CSHL using statistical modeling and single-cell
-            sequencing to study T cell receptor repertoire. In the Meyer lab,
-            he is studying the role of thymic transcription start sites in
-            promiscuous gene expression.
+            <strong>Salomé Carcy</strong><br>
+        Salomé is a PhD student (CSHL School of Biological Sciences) and a
+        medical student from the University of Paris.
+        In her PhD research in the Meyer lab, she studies T cell
+        development in the thymus through single cell transcriptomics and multi-omics approaches.
         </div>
     </div>
 
@@ -68,13 +67,27 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
+        <img src="/img/jason-square.png" class="circular" alt="Jason">
+        <div class="desc">
+            <strong>Jason Carter</strong><br>
+            Jason is a Stony Brook MD/PhD student. He completed his PhD in the
+            Atwal lab at CSHL using statistical modeling and single-cell
+            sequencing to study T cell receptor repertoire. In the Meyer lab,
+            he is studying the role of thymic transcription start sites in
+            promiscuous gene expression.
+        </div>
+    </div>
+
+
+<div class="row">
+</div>
+    <div class="responsive gallery">
         <img src="/img/idee-square.jpg" class="circular" alt="Idee">
         <div class="desc">
             <strong>Idee Mallardi</strong><br>
             Idee supports our lab in all matters that relate to administration, recruitment, and organization.
         </div>
     </div>
-
 </div>
 
 <div class="row top-pad">
@@ -126,17 +139,4 @@ permalink: /people/
             conducting single-cell RNAseq analysis of intestinal organoids.
         </div>
     </div>
-
-    <div class="responsive gallery">
-        <img src="/img/anushri-square.jpg" class="circular" alt="Anushri">
-        <div class="desc">
-            <strong>Anushri Arora</strong><br>
-            Anushri was a graduate intern at the Meyer lab. She is
-            interested in applying machine learning techniques that can aid in
-            methodological understanding of biological data. She has previously
-            worked on deep variational models which can infer spatial-temporal
-            dynamics between bacteria & tumor populations.
-        </div>
-    </div>
-
 </div>

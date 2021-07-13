@@ -57,12 +57,13 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/katie-square.jpg" class="circular" alt="Katie">
+        <img src="/img/ethan-square.jpg" class="circular" alt="Ethan">
         <div class="desc">
-            <strong>Katherine Papciak</strong><br>
-            Katie is a research technician. She received a B.Sc. from Virginia Polytechnic Institute
-            and State University in Biological Sciences with a minor in Statistics. Prior to joining
-            CSHL, she investigated auto-inflammatory diseases using wet and dry lab applications.
+            <strong>Ethan Mulle</strong><br>
+            Ethan is a Computational Science Developer. He received a B.S. in
+            Applied Mathematics and Physics from Stony Brook University.
+            In the Meyer lab, he uses in silico models to study negative
+            selection in the thymus.
         </div>
     </div>
 
@@ -77,10 +78,19 @@ permalink: /people/
             promiscuous gene expression.
         </div>
     </div>
+</div>
 
 
 <div class="row">
-</div>
+    <div class="responsive gallery">
+        <img src="/img/katie-square.jpg" class="circular" alt="Katie">
+        <div class="desc">
+            <strong>Katherine Papciak</strong><br>
+            Katie is a research technician. She received a B.Sc. from Virginia Polytechnic Institute
+            and State University in Biological Sciences with a minor in Statistics. Prior to joining
+            CSHL, she investigated auto-inflammatory diseases using wet and dry lab applications.
+        </div>
+    </div>
     <div class="responsive gallery">
         <img src="/img/idee-square.jpg" class="circular" alt="Idee">
         <div class="desc">

@@ -56,7 +56,7 @@ div.gallery:hover {
 
 div.gallery img {
   padding: 15px;
-  width: 50%;
+  width: 75%;
   height: auto;
 }
 
@@ -368,4 +368,13 @@ hr.footer {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+
+.bottom-pad {
+    margin-bottom: 100px;
+}
+
+.top-pad {
+    margin-top: 100px;
 }

@@ -8,6 +8,23 @@ image: /img/heterogeneity.png
 ### Publications
 ___
 <div class="col-lg-11">
+
+<p>
+Kleeman SO, Ferrer M, Demestichas B, Bankier S, Lee H, Heywood T, Ruusalepp A,
+Bjorkegren JLM, Walker BR, <b>Meyer HV+</b>, Janowitz T+ (2021) Cystatin C is a
+glucocorticoid response gene predictive of cancer immunotherapy failure,
+medRxiv 2021.08.17.21261668; + Co-corresponding authors
+</p>
+
+<p>
+Beyaz S, Roper J, Bauer-Rowe KE, Xifaras ME, Ergin I, Dohnalova L, Biton M,
+Shekar K, Mou H, Eskiocak O, Özata DM, Papciak K, Chung C, Almeqdadi M, Fein M,
+Valle-Encinas E, Erdemir A, Dogum K, Alici-Garipcan A, <b>Meyer HV</b>, Fox JG, Elinav E,
+Kucukural A, Kumar P, McAleer J, Thaiss CA, Regev A, Orkin SH, Yilmaz ÖH (2020)
+Dietary suppression of MHC-II expression in intestinal stem cells enhances
+intestinal tumorigenesis, 2021, Cell Stem Cell
+</p>
+
 <p>
 Williams EH, Flint, TH’ Connell CM, Giglio D, Lee H, Ha T, Gablenz E, Bird N,
 Weaver JMJ, Potts H, Whitley CT, Bookman MA,  Lynch AG, <b>Meyer HV</b>, Tavaré

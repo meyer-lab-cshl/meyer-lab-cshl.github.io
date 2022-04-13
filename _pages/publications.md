@@ -11,8 +11,9 @@ ___
 
 <p>
 Kleeman SO, Ferrer M, Demestichas B, Bankier S, Lee H, Heywood T, Ruusalepp A,
-Bjorkegren JLM, Walker BR, <b>Meyer HV+</b>, Janowitz T+ (2021) Cystatin C is a
-glucocorticoid response gene predictive of cancer immunotherapy failure,
+Bjorkegren JLM, Walker BR, <b>Meyer HV+</b>, Janowitz T+ (2021) <a
+href="https://www.medrxiv.org/content/10.1101/2021.08.17.21261668v1">Cystatin C is a
+glucocorticoid response gene predictive of cancer immunotherapy failure</a>,
 medRxiv 2021.08.17.21261668; + Co-corresponding authors
 </p>
 
@@ -21,8 +22,8 @@ Beyaz S, Roper J, Bauer-Rowe KE, Xifaras ME, Ergin I, Dohnalova L, Biton M,
 Shekar K, Mou H, Eskiocak O, Özata DM, Papciak K, Chung C, Almeqdadi M, Fein M,
 Valle-Encinas E, Erdemir A, Dogum K, Alici-Garipcan A, <b>Meyer HV</b>, Fox JG, Elinav E,
 Kucukural A, Kumar P, McAleer J, Thaiss CA, Regev A, Orkin SH, Yilmaz ÖH (2020)
-Dietary suppression of MHC-II expression in intestinal stem cells enhances
-intestinal tumorigenesis, 2021, Cell Stem Cell
+<a href="https://www.sciencedirect.com/science/article/pii/S1934590921003441?via%3Dihub">Dietary suppression of MHC-II expression in intestinal stem cells enhances
+intestinal tumorigenesis</a>, 2021, Cell Stem Cell
 </p>
 
 <p>

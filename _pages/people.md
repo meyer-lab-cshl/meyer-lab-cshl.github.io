@@ -83,12 +83,11 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
-        <img src="/img/katie-square.jpg" class="circular" alt="Katie">
+        <img src="/img/kadir-square.jpg" class="circular" alt="Katie">
         <div class="desc">
-            <strong>Katherine Papciak</strong><br>
-            Katie is a research technician. She received a B.Sc. from Virginia Polytechnic Institute
-            and State University in Biological Sciences with a minor in Statistics. Prior to joining
-            CSHL, she investigated auto-inflammatory diseases using wet and dry lab applications.
+            <strong>Kadir Ozler</strong><br>
+            Kadir is a research technician. He completed his B.Sc. in Biology from Stony Brook University.
+            In the Meyer Lab, he is assisting in studying epithelial and early immune populations in the human thymus.
         </div>
     </div>
     <div class="responsive gallery">
@@ -96,57 +95,6 @@ permalink: /people/
         <div class="desc">
             <strong>Idee Mallardi</strong><br>
             Idee supports our lab in all matters that relate to administration, recruitment, and organization.
-        </div>
-    </div>
-</div>
-
-<div class="row top-pad">
-    <h2> Alumni </h2>
-</div>
-
-<div class="row">
-
-    <div class="responsive gallery">
-        <img src="/img/lily.jpg" class="circular" alt="Lily">
-        <div class="desc">
-            <strong>Lily Coffin</strong><br>
-            Lily is a senior at Farmingdale High School and joined the Meyer lab as part of the Partners
-            for the Future program. She worked on antigen presentation and epitope generation in the
-            context of MHC antigen recognition by T cells.
-        </div>
-    </div>
-
-    <div class="responsive gallery">
-        <img src="/img/caroline-square.jpg" class="circular" alt="Caroline">
-        <div class="desc">
-            <strong>Caroline Walter</strong><br>
-            Caroline is an Undergraduate at Tufts University and joined the
-            Meyer lab as a summer research student. She studies metabolomics
-            and immune cell states in an endurance exercise setting.
-        </div>
-    </div>
-
-    <div class="responsive gallery">
-        <img src="/img/sarah-square.jpg" class="circular" alt="Sarah F">
-        <div class="desc">
-            <strong>Sarah Fumagalli</strong><br>
-            Sarah was a Postdoctoral Fellow. She received her Ph.D. from Texas Tech University,
-            where she used mathematical modeling to understand the evolution of cooperation
-            among unrelated individuals. In the Meyer lab, she worked on deriving a mathematical framework
-            for the development of T cells.
-        </div>
-    </div>
-
-</div>
-
-<div class="row">
-
-    <div class="responsive gallery">
-        <img src="/img/vyom.jpg" class="circular" alt="Vyom">
-        <div class="desc">
-            <strong>Vyom Shah</strong><br>
-            Vyom was a high school volunteer. He joined the lab for an independent student research project,
-            conducting single-cell RNAseq analysis of intestinal organoids.
         </div>
     </div>
 </div>

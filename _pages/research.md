@@ -68,7 +68,8 @@ image: /img/thymus.png
 
 <div class="row bottom-pad">
     <div class="col-lg-2">
-        <img class="img-responsive" style="float: left; padding-right:15px;" src="/img/antigen.png">
+        <img class="img-responsive" style="float: left; padding-right:15px;"
+        src="/img/umap.jpg">
     </div>
     <div class="col-lg-6">
         <p>

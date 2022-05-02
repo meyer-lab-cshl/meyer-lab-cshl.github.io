@@ -83,7 +83,7 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
-        <img src="/img/kadir-square.jpg" class="circular" alt="Katie">
+        <img src="/img/Kadir-square.jpg" class="circular" alt="Kadir">
         <div class="desc">
             <strong>Kadir Ozler</strong><br>
             Kadir is a research technician. He completed his B.Sc. in Biology from Stony Brook University.

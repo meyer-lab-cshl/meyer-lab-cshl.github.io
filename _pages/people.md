@@ -83,6 +83,16 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
+        <img src="/img/Joshua-square.jpg" class="circular" alt="Joshua">
+        <div class="desc">
+            <strong>Joshua Torre</strong><br>
+            Joshua is a research technician in the Meyer Laboratory. He received
+            a B.S. in Biochemistry from Stony Brook University. He assists in the processing and biobanking of
+            human tissue samples, as well as study of thymic epithelial cell
+            development.
+        </div>
+    </div>
+    <div class="responsive gallery">
         <img src="/img/Kadir-square.jpg" class="circular" alt="Kadir">
         <div class="desc">
             <strong>Kadir Ozler</strong><br>

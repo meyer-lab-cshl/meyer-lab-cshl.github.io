@@ -83,7 +83,7 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
-        <img src="/img/Joshua-square.jpg" class="circular" alt="Joshua">
+        <img src="/img/joshua-square.jpg" class="circular" alt="Joshua">
         <div class="desc">
             <strong>Joshua Torre</strong><br>
             Joshua is a research technician in the Meyer Laboratory. He received

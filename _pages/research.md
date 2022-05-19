@@ -17,10 +17,9 @@ image: /img/thymus.png
         the body’s self-antigens to developing T cells in a process called central tolerance induction.
         </p>
         <p>
-        The Meyer studies how the organisation of the thymus and the cells therein
-        contribute to immunological balance. Ultimately, understanding the physiological
-        balance mechanisms that lead to self-tolerance will be crucial for treating
-        or even preventing autoimmune diseases.
+        The Meyer lab studies how the organisation of the thymus and the cells therein
+        contribute to successful T cell development leading to a competent
+        immune system with adequate effector function.
         </p>
         <p></p>
     </div>
@@ -41,12 +40,12 @@ image: /img/thymus.png
         <p>
         Within the thymus, T cell progenitors known as thymocytes interact with
         thymic epithelial cells to select for T cells with functional T cell receptors
-        (positive selection) and against T cells that bind strongly to self-antigens
-        (negative selection). The negative selection process that
-        induces central tolerance largely depends on antigen presentation in the thymic
-        medulla. Medullary thymic epithelial cells (mTECs) express nearly all peripheral
-        antigens, representing essentially all tissues of the body. This phenomenon
-        is termed promiscuous gene expression. T cells that react to these peripheral
+        and against T cells that bind strongly to self-antigens.
+        The latter, negative selection process that induces central tolerance largely
+        depends on antigen presentation in the thymic
+        medulla. Medullary thymic epithelial cells express nearly all peripheral
+        antigens, representing essentially all tissues of the body.
+        T cells that react to these peripheral
         self-antigens are removed to ensure that no autoimmune responses occur.
         There are many open questions regarding this extraordinary process, from the
         molecular factors responsible for this promiscuous gene expression, to the tissue-level
@@ -61,7 +60,7 @@ image: /img/thymus.png
     </div>
 </div>
 
-#### Thymocyte differentiation
+#### Genetic and epigenetic drivers of thymocyte development and differentiation
 <div class="row">
     <div class="col-lg-8"><hr></div>
 </div>
@@ -75,12 +74,13 @@ image: /img/thymus.png
         <p>
         In the thymus, T cell progenitors give rise to a variety of T cell lineages,
         an intricate process tightly regulated by the combination of environmental
-        signals, transcription factors and epigenetic factors. Although the
-        transcriptional programs leading thymocytes’ differentiation have been previously described,
-        little is known on some of the key epigenetic regulators contributing to T cell fate decisions.
-        Leveraging genetically engineered mouse models, we combine experimental and
-        high-throughput sequencing approaches in order to study the role of epigenetic factors
-        in regulating thymocytes differentiation.
+        signals, transcription factors as well as genetic and epigenetic
+        factors.
+        </p>
+        <p>
+        We combine experimental and high-throughput sequencing approaches to
+        study the role of genetic and epigenetic factors in regulating thymocytes
+        development and differentiation.
         </p>
     </div>
 </div>

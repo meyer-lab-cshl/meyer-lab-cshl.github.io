@@ -6,7 +6,8 @@ image: /img/thymus.png
 welcome: Welcome to the Meyer Lab
 ---
 
-<div class="col-lg-6">
+<div class="col-lg-2"></div>
+<div class="col-lg-4">
     <p>
         The immune system must be able to distinguish between self and non-self in order
         to both effectively fight infection, and prevent autoimmune diseases. The T cells
@@ -21,16 +22,19 @@ welcome: Welcome to the Meyer Lab
     </p>
 </div>
 
-<div class="col-lg-6">
+<div class="col-lg-4">
     <p>
-        The Meyer Lab seeks to answer these questions by combining genomics and mathematical modelling.
-        We investigate the spatial and temporal organisation of promiscuous gene expression in the thymus
-        and how antigen distribution in the thymus affects epithelial-T cell interaction and migration.
-        To understand cellular integrity mechanisms in thymic epithelial cells,
-        we conduct research on the spatio-temporal organisation of promiscuous gene expression on a per-cell
-        level.
+        The Meyer Lab seeks to answer these questions by combining genomics,
+        quantitative genetics and <i>in silico</i> thymic selection models.
+    </p>
+    <p>
+        Our current research focuses on understanding the regulation of promiscuous gene expression in the
+        human and mouse thymus, determining the genetic and epigenetic drivers of
+        thymocyte development and differentiation and developing a comprehensive
+        model of central tolerance induction.
     </p>
 </div>
+<div class="col-lg-4"></div>
 
 <!--
 <div class="container">

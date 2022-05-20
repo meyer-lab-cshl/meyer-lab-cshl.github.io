@@ -85,7 +85,7 @@ permalink: /people/
     <div class="responsive gallery">
         <img src="/img/joshua-square.jpg" class="circular" alt="Joshua">
         <div class="desc">
-            <strong>Joshua Torre</strong><br>
+            <strong>Joshua Torres</strong><br>
             Joshua is a research technician in the Meyer Laboratory. He received
             a B.S. in Biochemistry from Stony Brook University. He assists in the processing and biobanking of
             human tissue samples, as well as study of thymic epithelial cell

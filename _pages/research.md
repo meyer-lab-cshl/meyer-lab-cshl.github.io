@@ -7,7 +7,7 @@ image: /img/thymus.png
 
 ### Research
 <div class="row bottom-pad">
-    <div class="col-lg-8">
+    <div class="col-lg-11">
         <hr>
         <p>
         The immune system exists in an intricate balance. Inappropriate response
@@ -27,16 +27,16 @@ image: /img/thymus.png
 
 #### Regulation of promiscuous gene expression
 <div class="row">
-    <div class="col-lg-8"><hr></div>
+    <div class="col-lg-11"><hr></div>
 </div>
 
 <div class="row bottom-pad">
-    <div class="col-lg-2" >
+    <div class="col-lg-3" >
         <img class="img-responsive" style="float: left;  padding-right:15px;
         width:250px;height:auto;"
         src="/img/thymus-histology.png">
     </div>
-    <div class="col-lg-6">
+    <div class="col-lg-8">
         <p>
         Within the thymus, T cell progenitors known as thymocytes interact with
         thymic epithelial cells to select for T cells with functional T cell receptors
@@ -62,15 +62,15 @@ image: /img/thymus.png
 
 #### Genetic and epigenetic drivers of thymocyte development and differentiation
 <div class="row">
-    <div class="col-lg-8"><hr></div>
+    <div class="col-lg-11"><hr></div>
 </div>
 
 <div class="row bottom-pad">
-    <div class="col-lg-2">
+    <div class="col-lg-3">
         <img class="img-responsive" style="float: left; padding-right:15px;"
         src="/img/umap.jpg">
     </div>
-    <div class="col-lg-6">
+    <div class="col-lg-8">
         <p>
         In the thymus, T cell progenitors give rise to a variety of T cell lineages,
         an intricate process tightly regulated by the combination of environmental
@@ -87,16 +87,16 @@ image: /img/thymus.png
 
 #### Comprehensive model of central tolerance induction
 <div class="row">
-    <div class="col-lg-8"><hr></div>
+    <div class="col-lg-11"><hr></div>
 </div>
 
 <div class="row bottom-pad">
-    <div class="col-lg-2">
+    <div class="col-lg-3">
         <img class="img-responsive" style="float: left; padding-right:15px;
         width:200px;height:auto;"
         src="/img/thymus-model.png">
     </div>
-    <div class="col-lg-6">
+    <div class="col-lg-8">
         <p>
         Thymus biology has been well characterized in qualitative terms:
         the developmental stages of thymocytes and thymic epithelium based on the

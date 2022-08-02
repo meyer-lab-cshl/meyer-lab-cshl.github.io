@@ -9,6 +9,14 @@ image: /img/heterogeneity.png
 ___
 <div class="col-lg-11">
 <p>
+Carter JA, Strömich L, Peacey M, Chapin SR, Velten L, Steinmetz LM, Brors B,
+Pinto S & Meyer HV (2022)
+<a href="https://www.nature.com/articles/s41467-022-31750-1">
+Transcriptomic diversity in human medullary thymic epithelial cells.
+</a> Nature Communications
+</p>
+
+<p>
 Williams EH, Flint, TH’ Connell CM, Giglio D, Lee H, Ha T, Gablenz E, Bird N,
 Weaver JMJ, Potts H, Whitley CT, Bookman MA,  Lynch AG, <b>Meyer HV</b>, Tavaré
 S, Janowitz T (2020) <a

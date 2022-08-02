@@ -8,6 +8,13 @@ image: /img/heterogeneity.png
 ### Publications
 ___
 <div class="col-lg-11">
+<p>
+Carter JA, Strömich L, Peacey M, Chapin SR, Velten L, Steinmetz LM, Brors B,
+Pinto S & Meyer HV (2022)
+<a href="https://www.nature.com/articles/s41467-022-31750-1">
+Transcriptomic diversity in human medullary thymic epithelial cells.
+</a> Nature Communications
+</p>
 
 <p>
 Kleeman SO, Ferrer M, Demestichas B, Bankier S, Lee H, Heywood T, Ruusalepp A,
@@ -24,14 +31,6 @@ Valle-Encinas E, Erdemir A, Dogum K, Alici-Garipcan A, <b>Meyer HV</b>, Fox JG, 
 Kucukural A, Kumar P, McAleer J, Thaiss CA, Regev A, Orkin SH, Yilmaz ÖH (2020)
 <a href="https://www.sciencedirect.com/science/article/pii/S1934590921003441?via%3Dihub">Dietary suppression of MHC-II expression in intestinal stem cells enhances
 intestinal tumorigenesis</a>, 2021, Cell Stem Cell
-</p>
-
-<p>
-Carter JA, Strömich L, Peacey M, Chapin SR, Velten L, Steinmetz LM, Brors B,
-Pinto S & Meyer HV (2022)
-<a href="https://www.nature.com/articles/s41467-022-31750-1">
-Transcriptomic diversity in human medullary thymic epithelial cells.
-</a> Nature Communications
 </p>
 
 <p>

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-permalink: /home
+permalink: /home/
 image: /img/thymus.png
 welcome: Welcome to the Meyer Lab
 ---

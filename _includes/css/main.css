@@ -4,6 +4,11 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.card-scroll {
+    max-height: 100px;
+    overflow-y: auto;
+}
+
 body {
     overflow-x: hidden;
     color: #{{ site.color.text }};

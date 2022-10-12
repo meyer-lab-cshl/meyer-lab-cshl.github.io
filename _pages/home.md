@@ -59,6 +59,22 @@ welcome: Welcome to the Meyer Lab
         <div class="card text-center">
             <div class="card-header"></div>
             <div class="card-body">
+                <h5 class="card-title">The thymus is going public!</h5>
+                <p class="card-text">Great story on the biology
+                behind your inner mini-self and the ignore list it equips your
+                immune system with on one of our favorite science podcasts: http://wnycstudios.org/story/inner-workings/.
+                Featuring our work and live scenes with @CarcySalome from our lab @cshl!
+                </p>
+                <img class="img-responsive" style="display:block; margin-left:
+                auto; margin-right: auto;
+                padding-right:15px;padding-left:15px;padding-top:0px;
+                width:300px;height:auto;" src="/img/radiolab2.jpeg">
+            </div>
+            <div class="card-footer text-muted"> August 17, 2022</div>
+        </div>
+        <div class="card text-center">
+            <div class="card-header"></div>
+            <div class="card-body">
                 <h5 class="card-title">New paper alert!</h5>
                 <p class="card-text">Jason's paper on transcriptomic diversity
                 in human mTECs is out in <a
@@ -79,7 +95,7 @@ welcome: Welcome to the Meyer Lab
             <div class="card-body">
                 <h5 class="card-title">New webpage section</h5>
                 <p class="card-text">The Meyer lab now has a news section, for
-                announcement on open position, published work etc. Watch this
+                announcement on open positions, published work etc. Watch this
                 space :).</p>
             </div>
             <div class="card-footer text-muted"> August 2, 2022</div>

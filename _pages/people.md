@@ -20,12 +20,10 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/aybuke-square.jpg" class="circular" alt="Aybuke">
+        <img src="/img/yong-square.jpg" class="circular" alt="Yong">
         <div class="desc">
-            <strong>Aybuke Garipcan</strong><br>
-            Aybuke is a Postdoctoral Fellow. She received her Ph.D from Bogazici University,
-            where she investigated the functions of NLRP7 in Embryogenesis, Inflammation and Oncogenesis.
-            In the Meyer lab, she studies T cell development in humans.
+            <strong>Yong Lin</strong><br>
+            Yong is a Postdoctoral Fellow. He received a Ph.D. in Immunology from Baylor College of Medicine. In the Meyer Lab, he studies how genetic polymorphisms influence pediatric T cell development and predisposition to immune-mediated diseases in adulthood.
         </div>
     </div>
 

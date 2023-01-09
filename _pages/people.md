@@ -6,7 +6,6 @@ permalink: /people/
 
 
 <div class="row">
-
     <div class="responsive gallery">
         <img src="/img/hannah-square.jpg" class="circular" alt="Hannah">
         <div class="desc">
@@ -19,7 +18,6 @@ permalink: /people/
             research group at CSHL.
         </div>
     </div>
-
     <div class="responsive gallery">
         <img src="/img/amitava-square.jpg" class="circular" alt="Amitava">
         <div class="desc">
@@ -31,7 +29,16 @@ permalink: /people/
             while avoiding autoimmune reactions.
         </div>
     </div>
-
+    <div class="responsive gallery">
+        <img src="/img/yong-square.jpg" class="circular" alt="Yong">
+        <div class="desc">
+            <strong>Yong Lin</strong><br>
+            Yong is a Postdoctoral Fellow. He received a Ph.D. in Immunology
+            from Baylor College of Medicine. In the Meyer Lab, he studies how
+            genetic polymorphisms influence pediatric T cell development and
+            predisposition to immune-mediated diseases in adulthood.
+        </div>
+    </div>
     <div class="responsive gallery">
         <img src="/img/salome-square.jpg" class="circular" alt="Salome">
         <div class="desc">

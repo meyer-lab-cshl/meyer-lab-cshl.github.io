@@ -59,6 +59,16 @@ welcome: Welcome to the Meyer Lab
         <div class="card text-center">
             <div class="card-header"></div>
             <div class="card-body">
+                <h5 class="card-title">Welcome to the Meyer lab, Yong!</h5>
+                <p class="card-text"> Yong Lin has started a Postdoc in our lab to study
+                the genetics of human T cell development, really excited to have him
+                join the team! </p>
+            </div>
+            <div class="card-footer text-muted"> October 18, 2022</div>
+        </div>
+        <div class="card text-center">
+            <div class="card-header"></div>
+            <div class="card-body">
                 <h5 class="card-title">The thymus is going public!</h5>
                 <p class="card-text">Great story on the biology
                 behind your inner mini-self and the ignore list it equips your

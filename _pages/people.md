@@ -10,22 +10,25 @@ permalink: /people/
     <div class="responsive gallery">
         <img src="/img/hannah-square.jpg" class="circular" alt="Hannah">
         <div class="desc">
-            <strong>Hannah Meyer, CSHL Fellow</strong><br>
-            Hannah is the lab’s principal investigator.
-            She received a B.Sc. and M.Sc. from Heidelberg University before she started her Ph.D.
-            in Ewan Birney's research group at the European Bioinformatics Institute (EMBL-EBI),
-            University of Cambridge. After graduation, Hannah started her independent research
-            group at CSHL.
+            <strong>Hannah Meyer</strong><br>
+            Hannah is an Assistant Professor and the lab’s principal
+            investigator. She received a B.Sc. and M.Sc. from Heidelberg
+            University before she started her Ph.D. in Ewan Birney's research
+            group at the European Bioinformatics Institute (EMBL-EBI), University
+            of Cambridge. After graduation, Hannah started her independent
+            research group at CSHL.
         </div>
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/aybuke-square.jpg" class="circular" alt="Aybuke">
+        <img src="/img/amitava-square.jpg" class="circular" alt="Amitava">
         <div class="desc">
-            <strong>Aybuke Garipcan</strong><br>
-            Aybuke is a Postdoctoral Fellow. She received her Ph.D from Bogazici University,
-            where she investigated the functions of NLRP7 in Embryogenesis, Inflammation and Oncogenesis.
-            In the Meyer lab, she studies T cell development in humans.
+            <strong>Amitava Banerjee</strong><br>
+            Amitava is a joint postdoctoral fellow in  the Meyer and Navlakha
+            labs. He received his PhD in Physics from the University of Maryland
+            and currently studies how T cells learn to differentiate between self
+            and foreign peptides to mount immune responses against pathogens
+            while avoiding autoimmune reactions.
         </div>
     </div>
 
@@ -36,7 +39,8 @@ permalink: /people/
         Salomé is a PhD student (CSHL School of Biological Sciences) and a
         medical student from the University of Paris.
         In her PhD research in the Meyer lab, she studies T cell
-        development in the thymus through single cell transcriptomics and multi-omics approaches.
+        development in the thymus through single cell transcriptomics and
+        multi-omics approaches.
         </div>
     </div>
 
@@ -87,24 +91,25 @@ permalink: /people/
         <div class="desc">
             <strong>Joshua Torres</strong><br>
             Joshua is a research technician in the Meyer Laboratory. He received
-            a B.S. in Biochemistry from Stony Brook University. He assists in the processing and biobanking of
-            human tissue samples, as well as study of thymic epithelial cell
-            development.
+            a B.S. in Biochemistry from Stony Brook University. He studies thymic
+            epithelial cell development in humans.
         </div>
     </div>
     <div class="responsive gallery">
         <img src="/img/Kadir-square.jpg" class="circular" alt="Kadir">
         <div class="desc">
             <strong>Kadir Ozler</strong><br>
-            Kadir is a research technician. He completed his B.Sc. in Biology from Stony Brook University.
-            In the Meyer Lab, he is assisting in studying epithelial and early immune populations in the human thymus.
+            Kadir is a research technician. He completed his B.Sc. in Biology
+            from Stony Brook University. In the Meyer Lab, he is assisting in
+            studying epithelial and early immune populations in the human thymus.
         </div>
     </div>
     <div class="responsive gallery">
         <img src="/img/idee-square.jpg" class="circular" alt="Idee">
         <div class="desc">
             <strong>Idee Mallardi</strong><br>
-            Idee supports our lab in all matters that relate to administration, recruitment, and organization.
+            Idee supports our lab in all matters that relate to administration,
+            recruitment, and organization.
         </div>
     </div>
 </div>

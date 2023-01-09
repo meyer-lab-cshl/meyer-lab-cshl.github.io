@@ -39,6 +39,10 @@ permalink: /people/
             predisposition to immune-mediated diseases in adulthood.
         </div>
     </div>
+
+</div>
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/salome-square.jpg" class="circular" alt="Salome">
         <div class="desc">
@@ -50,10 +54,6 @@ permalink: /people/
         multi-omics approaches.
         </div>
     </div>
-
-</div>
-
-<div class="row">
 
     <div class="responsive gallery">
         <img src="/img/sarahc-square.jpg" class="circular" alt="Sarah C">
@@ -67,16 +67,6 @@ permalink: /people/
         </div>
     </div>
 
-    <div class="responsive gallery">
-        <img src="/img/ethan-square.jpg" class="circular" alt="Ethan">
-        <div class="desc">
-            <strong>Ethan Mulle</strong><br>
-            Ethan is a Computational Science Developer. He received a B.S. in
-            Applied Mathematics and Physics from Stony Brook University.
-            In the Meyer lab, he uses in silico models to study negative
-            selection in the thymus.
-        </div>
-    </div>
 
     <div class="responsive gallery">
         <img src="/img/jason-square.png" class="circular" alt="Jason">

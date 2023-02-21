@@ -93,12 +93,13 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/Kadir-square.jpg" class="circular" alt="Kadir">
+        <img src="/img/conny-square.jpg" class="circular" alt="Kadir">
         <div class="desc">
-            <strong>Kadir Ozler</strong><br>
-            Kadir is a research technician. He completed his B.Sc. in Biology
-            from Stony Brook University. In the Meyer Lab, he is assisting in
-            studying epithelial and early immune populations in the human thymus.
+            <strong>Cornelia Wincek</strong><br>
+            Cornelia is a visiting Molecular Biotechnology master student from
+            Heidelberg University. She also received her B.Sc. from the Heidelberg University.
+            In the Meyer lab she will establish a protocol to study key parameters of
+            negative selection in the murine thymus.
         </div>
     </div>
     <div class="responsive gallery">

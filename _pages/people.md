@@ -97,7 +97,7 @@ permalink: /people/
         <div class="desc">
             <strong>Cornelia Wincek</strong><br>
             Cornelia is a visiting Molecular Biotechnology master student from
-            Heidelberg University. She also received her B.Sc. from the Heidelberg University.
+            Heidelberg University. She also received her B.Sc. from  Heidelberg University.
             In the Meyer lab she will establish a protocol to study key parameters of
             negative selection in the murine thymus.
         </div>

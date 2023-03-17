@@ -39,10 +39,6 @@ permalink: /people/
             predisposition to immune-mediated diseases in adulthood.
         </div>
     </div>
-
-</div>
-
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/salome-square.jpg" class="circular" alt="Salome">
         <div class="desc">
@@ -54,6 +50,10 @@ permalink: /people/
         multi-omics approaches.
         </div>
     </div>
+
+</div>
+
+<div class="row">
 
     <div class="responsive gallery">
         <img src="/img/sarahc-square.jpg" class="circular" alt="Sarah C">
@@ -70,18 +70,13 @@ permalink: /people/
     <div class="responsive gallery">
         <img src="/img/caroline.jpg" class="circular" alt="Caroline">
         <div class="desc">
-            <strong>Caroline Walters</strong><br>
+            <strong>Caroline Walter</strong><br>
             Caroline is a student at Tufts University majoring in Computational
             Biology and is working with the Meyer lab on her undergraduate thesis.
             She is working to develop and enhance an R/CRAN package for genotype
             quality control in genetic association studies.
         </div>
     </div>
-
-</div>
-
-
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/joshua-square.jpg" class="circular" alt="Joshua">
         <div class="desc">
@@ -92,7 +87,7 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/conny-square.jpg" class="circular" alt="Kadir">
+        <img src="/img/conny-square.jpg" class="circular" alt="conny">
         <div class="desc">
             <strong>Cornelia Wincek</strong><br>
             Cornelia is a visiting Molecular Biotechnology master student from
@@ -101,6 +96,11 @@ permalink: /people/
             negative selection in the murine thymus.
         </div>
     </div>
+
+</div>
+
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/jason-square.png" class="circular" alt="Jason">
         <div class="desc">
@@ -112,9 +112,7 @@ permalink: /people/
             promiscuous gene expression.
         </div>
     </div>
-</div>
 
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/idee-square.jpg" class="circular" alt="Idee">
         <div class="desc">

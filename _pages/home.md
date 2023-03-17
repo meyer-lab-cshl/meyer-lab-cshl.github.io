@@ -59,6 +59,35 @@ welcome: Welcome to the Meyer Lab
         <div class="card text-center">
             <div class="card-header"></div>
             <div class="card-body">
+                <h5 class="card-title">Welcome Conny!</h5>
+                <p class="card-text"> Cornelia Wincek has joined us for a Master's
+                rotation from Heidelberg, Germany. Welcome to the lab, Conny! </p>
+            </div>
+            <div class="card-footer text-muted"> February 6, 2023</div>
+        </div>
+        <div class="card text-center">
+            <div class="card-header"></div>
+            <div class="card-body">
+                <h5 class="card-title">Excited to welcome Amitava to the Meyer Lab!</h5>
+                <p class="card-text"> Amitava Banerjee has started a joint
+                Postdoc in the Meyer and Navlakha labs to study negative
+                selection in the thymus as a learning algorithm. We are very
+                excited to have him join the team! </p>
+            </div>
+            <div class="card-footer text-muted"> January 5, 2023</div>
+        </div>
+        <div class="card text-center">
+            <div class="card-header"></div>
+            <div class="card-body">
+                <h5 class="card-title">Congratulations to your promotion, Hannah!</h5>
+                <p class="card-text"> Our lab's PI has been promoted to
+                Assistant Professor. Congratulations! </p>
+            </div>
+            <div class="card-footer text-muted"> January 1, 2023</div>
+        </div>
+        <div class="card text-center">
+            <div class="card-header"></div>
+            <div class="card-body">
                 <h5 class="card-title">Welcome to the Meyer lab, Yong!</h5>
                 <p class="card-text"> Yong Lin has started a Postdoc in our lab to study
                 the genetics of human T cell development, really excited to have him

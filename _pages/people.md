@@ -55,13 +55,13 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/ethan-square.jpg" class="circular" alt="Ethan">
+        <img src="/img/caroline.jpg" class="circular" alt="Caroline">
         <div class="desc">
-            <strong>Ethan Mulle</strong><br>
-            Ethan is a Computational Science Developer. He received a B.S. in
-            Applied Mathematics and Physics from Stony Brook University.
-            In the Meyer lab, he uses in silico models to study negative
-            selection in the thymus.
+            <strong>Caroline Walters</strong><br>
+            Caroline is a student at Tufts University majoring in Computational
+            Biology and is working with the Meyer lab on her undergraduate thesis.
+            She is working to develop and enhance an R/CRAN package for genotype
+            quality control in genetic association studies.
         </div>
     </div>
 

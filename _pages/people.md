@@ -78,17 +78,6 @@ permalink: /people/
         </div>
     </div>
 
-    <div class="responsive gallery">
-        <img src="/img/jason-square.png" class="circular" alt="Jason">
-        <div class="desc">
-            <strong>Jason Carter</strong><br>
-            Jason is a Stony Brook MD/PhD student. He completed his PhD in the
-            Atwal lab at CSHL using statistical modeling and single-cell
-            sequencing to study T cell receptor repertoire. In the Meyer lab,
-            he is studying the role of thymic transcription start sites in
-            promiscuous gene expression.
-        </div>
-    </div>
 </div>
 
 
@@ -112,6 +101,20 @@ permalink: /people/
             negative selection in the murine thymus.
         </div>
     </div>
+    <div class="responsive gallery">
+        <img src="/img/jason-square.png" class="circular" alt="Jason">
+        <div class="desc">
+            <strong>Jason Carter</strong><br>
+            Jason is a Stony Brook MD/PhD student. He completed his PhD in the
+            Atwal lab at CSHL using statistical modeling and single-cell
+            sequencing to study T cell receptor repertoire. In the Meyer lab,
+            he is studying the role of thymic transcription start sites in
+            promiscuous gene expression.
+        </div>
+    </div>
+</div>
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/idee-square.jpg" class="circular" alt="Idee">
         <div class="desc">

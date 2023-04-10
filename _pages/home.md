@@ -59,6 +59,20 @@ welcome: Welcome to the Meyer Lab
         <div class="card text-center">
             <div class="card-header"></div>
             <div class="card-body">
+                <h5 class="card-title">Welcome to the lab, Rish!</h5>
+                <p class="card-text"> Rishvanth Prabakar started as a Postdoc in
+                out lab to study TEC - T cell interaction. Just in time for
+                spring with nicer weather and cake outside. Welcome, Rish! </p>
+                <img class="img-responsive" style="display:block; margin-left:
+                auto; margin-right: auto;
+                padding-right:15px;padding-left:15px;padding-top:0px;
+                width:300px;height:auto;" src="/img/cake.jpg">
+            </div>
+            <div class="card-footer text-muted"> April 3, 2023</div>
+        </div>
+        <div class="card text-center">
+            <div class="card-header"></div>
+            <div class="card-body">
                 <h5 class="card-title">Welcome Conny!</h5>
                 <p class="card-text"> Cornelia Wincek has joined us for a Master's
                 rotation from Heidelberg, Germany. Welcome to the lab, Conny! </p>

@@ -40,6 +40,21 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
+        <img src="/img/rish-square.jpeg" class="circular" alt="Salome">
+        <div class="desc">
+            <strong>Rishvanth Prabakar</strong><br>
+        Rish is a postdoctoral fellow. He studies the interaction between T cells
+        and epitelial cells in the thymus to understand the process of negative
+        selection which helps prevent auto immunity. He was previously trained in
+        molecular and computational biology focusing on single cell genomics
+        at the University of Southern California.
+        </div>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="responsive gallery">
         <img src="/img/salome-square.jpg" class="circular" alt="Salome">
         <div class="desc">
             <strong>Salomé Carcy</strong><br>
@@ -50,10 +65,6 @@ permalink: /people/
         multi-omics approaches.
         </div>
     </div>
-
-</div>
-
-<div class="row">
 
     <div class="responsive gallery">
         <img src="/img/sarahc-square.jpg" class="circular" alt="Sarah C">
@@ -86,16 +97,6 @@ permalink: /people/
             epithelial cell development in humans.
         </div>
     </div>
-    <div class="responsive gallery">
-        <img src="/img/conny-square.jpg" class="circular" alt="conny">
-        <div class="desc">
-            <strong>Cornelia Wincek</strong><br>
-            Cornelia is a visiting Molecular Biotechnology master student from
-            Heidelberg University. She also received her B.Sc. from  Heidelberg University.
-            In the Meyer lab she will establish a protocol to study key parameters of
-            negative selection in the murine thymus.
-        </div>
-    </div>
 
 </div>
 
@@ -110,6 +111,16 @@ permalink: /people/
             sequencing to study T cell receptor repertoire. In the Meyer lab,
             he is studying the role of thymic transcription start sites in
             promiscuous gene expression.
+        </div>
+    </div>
+    <div class="responsive gallery">
+        <img src="/img/conny-square.jpg" class="circular" alt="conny">
+        <div class="desc">
+            <strong>Cornelia Wincek</strong><br>
+            Cornelia is a visiting Molecular Biotechnology master student from
+            Heidelberg University. She also received her B.Sc. from  Heidelberg University.
+            In the Meyer lab she will establish a protocol to study key parameters of
+            negative selection in the murine thymus.
         </div>
     </div>
 

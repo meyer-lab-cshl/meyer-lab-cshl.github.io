@@ -79,13 +79,15 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/caroline.jpg" class="circular" alt="Caroline">
+        <img src="/img/vasilisa-square.jpg" class="circular" alt="Vasilisa">
         <div class="desc">
-            <strong>Caroline Walter</strong><br>
-            Caroline is a student at Tufts University majoring in Computational
-            Biology and is working with the Meyer lab on her undergraduate thesis.
-            She is working to develop and enhance an R/CRAN package for genotype
-            quality control in genetic association studies.
+            <strong>Vasilisa Kovaleva</strong><br>
+            Vasilisa is a Computational Science Developer. She received a B.Sc
+            from Moscow State University and an M.Sc. from Skoltech University.
+            She is interested in molecular mimicry and how it impacts the
+            differentiation between self and foreign by adaptive immunity.
+            In the Meyer Lab, she studies the cross-reactivity of T-cell
+            receptors.
         </div>
     </div>
     <div class="responsive gallery">
@@ -121,6 +123,16 @@ permalink: /people/
             Heidelberg University. She also received her B.Sc. from  Heidelberg University.
             In the Meyer lab she will establish a protocol to study key parameters of
             negative selection in the murine thymus.
+        </div>
+    </div>
+    <div class="responsive gallery">
+        <img src="/img/caroline.jpg" class="circular" alt="Caroline">
+        <div class="desc">
+            <strong>Caroline Walter</strong><br>
+            Caroline is a student at Tufts University majoring in Computational
+            Biology and is working with the Meyer lab on her undergraduate thesis.
+            She is working to develop and enhance an R/CRAN package for genotype
+            quality control in genetic association studies.
         </div>
     </div>
 

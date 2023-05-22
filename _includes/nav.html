@@ -43,6 +43,10 @@
                         People</a>
                 </li>
                 <li class="page-scroll">
+                    <a href="/news/" {% if page.url=="/news/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        News</a>
+                </li>
+                <li class="page-scroll">
                     <a href="/contact/" {% if page.url=="/contact/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
                         Contact</a>
                 </li>

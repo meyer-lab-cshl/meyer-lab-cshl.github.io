@@ -55,10 +55,10 @@ welcome: Welcome to the Meyer Lab
     <hr></div>
 </div>
 
-<section class="recentNews">
+<div class="recentNews">
     <div class="container">
         <div class="row">
-            <div class="col-lg-1"></div>
+            <div class="col-lg-2"></div>
             <div class="ct-blog col-sm-6 col-md-4">
                 <center> <h4>NEWS</h4> </center>
                 <div class="inner">
@@ -70,15 +70,15 @@ welcome: Welcome to the Meyer Lab
                     </div>
                     <div class="ct-blog-content">
                         <div class="ct-blog-date">
-                            <span>April</span><strong>3</strong>
+                            <span>May</span><strong>8</strong>
                         </div>
-                        <h5 class="ct-blog-header">Welcome to the lab, Rish!</h5>
+                        <h5 class="ct-blog-header">Welcome to the lab, Vasilisa!</h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-2"></div>
         </div>
     </div>
-</section>
+</div>
 
 

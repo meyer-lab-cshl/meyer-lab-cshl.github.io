@@ -15,14 +15,25 @@ image: img/profile.png
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> May 8, 2023 |</span>
+        <strong>Welcome to the Meyer lab,  Vasilisa!</strong>
+        Vasilisa Kolavela has started as computatinal science developer,
+        following on from her Master's work on analysing TCR epitope diversity.
+        Welcome to the team, Vasilisa! </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> April 3, 2023 |</span>
         <strong>Welcome to the lab, Rish!</strong> Rishvanth Prabakar started as
         a Postdoc in out lab to study TEC - T cell interaction. Just in time for
         spring with nicer weather and cake outside. Welcome, Rish! </p>
-        <img class="img-responsive" style="display:block; margin-left:
-        auto; margin-right: auto;
-        padding-right:15px;padding-left:15px;padding-top:0px;
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
         width:300px;height:auto;" src="/img/cake.jpg">
+    </div>
     </div>
 </div>
 <div class="row">
@@ -72,10 +83,9 @@ image: img/profile.png
         href="http://wnycstudios.org/story/inner-workings/">Radiolab: inner
         workings</a>. Featuring our
         work and live scenes with @CarcySalome from our lab @cshl! </p>
-        <img class="img-responsive" style="display:block; margin-left:
-        auto; margin-right: auto;
-        padding-right:15px;padding-left:15px;padding-top:0px;
-        width:300px;height:auto;" src="/img/radiolab2.jpeg">
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/radiolab3.jpeg">
     </div>
 </div>
 <div class="row">

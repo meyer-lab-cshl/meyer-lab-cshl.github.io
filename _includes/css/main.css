@@ -9,6 +9,7 @@
     overflow-y: auto;
 }
 
+
 body {
     overflow-x: hidden;
     color: #{{ site.color.text }};
@@ -46,6 +47,10 @@ h6 {
     border-radius:50%
 }
 
+.rounded{
+    border-radius: 3em;
+}
+
 .float-right {
     float: right;
     width: 65%;
@@ -78,6 +83,7 @@ div.desc {
   box-sizing: border-box;
 }
 
+
 .responsive {
   padding: 0 6px;
   float: left;
@@ -87,6 +93,9 @@ div.desc {
 @media only screen and (max-width: 700px) {
   .responsive {
     width: 49.99999%;
+    padding-right:15px;
+    padding-left:15px;
+    padding-top:15px;
     margin: 6px 0;
   }
 }
@@ -175,18 +184,33 @@ header .intro-text .name {
 
 .navbar a:active{
     outline: 0;
+    background-color: transparent;
     color: #{{ site.color.active }};
 }
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
+    background-color: transparent;
     color: #{{ site.color.active }};
 }
 
 .navbar .navbar-nav li a:active {
     outline: 0;
+    background-color: transparent;
     color: #{{ site.color.active }};
 }
+
+.navbar .navbar-nav .open a:focus {
+    background-color: transparent;
+    color: #{{ site.color.active }};
+}
+
+
+.navbar .navbar-nav .hover a:focus {
+    background-color: transparent;
+    color: #{{ site.color.active }};
+}
+
 
 .navbar-default,
 .navbar-inverse {
@@ -471,4 +495,8 @@ hr.footer {
 }
 .btn-news.btn-contests a:hover {
     color: #000;
+}
+
+.page-scroll.open {
+    background-color: transparent;
 }

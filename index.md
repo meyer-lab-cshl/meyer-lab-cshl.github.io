@@ -1,14 +1,14 @@
 ---
 layout: home
 title: Home
-permalink: /home/
+permalink: /
 image: /img/thymus.png
 welcome: Welcome to the Meyer Lab
 ---
 
 <div class="row">
     <div class="col-lg-2"></div>
-    <div class="col-lg-4">
+    <div class="col-lg-8">
         <p>
             The immune system must be able to distinguish between self and non-self in order
             to both effectively fight infection, and prevent autoimmune diseases. The T cells
@@ -21,9 +21,6 @@ welcome: Welcome to the Meyer Lab
             interactions of developing T cells and thymic epithelial cells lead to
             tolerance induction and generation of diversity in the immune system.
         </p>
-    </div>
-
-    <div class="col-lg-4">
         <p>
             The Meyer Lab seeks to answer these questions by combining genomics,
             quantitative genetics and <i>in silico</i> thymic selection models.
@@ -44,12 +41,24 @@ welcome: Welcome to the Meyer Lab
 
 <div class="row">
     <div class="col-lg-2"></div>
-    <div class="col-lg-8"> <hr></div>
+    <div class="col-lg-8">
+        <center> <h4>Research Culture</h4> </center>
+        <p>
+        We believe that diversity, equity and inclusion are fundamental to innovative
+        and successful science. We strive to create a motivated and creative laboratory
+        environment that fosters collaborations, supports individuals of all
+        backgrounds and abilities and promotes a safe research culture. Everyone in
+        our research team is committed to these goals as we believe that diverse
+        perspectives embedded in a supportive and equitable environment are key to
+        excellence in scientific research.
+        </p>
+    <hr></div>
 </div>
 
 <section class="recentNews">
     <div class="container">
         <div class="row">
+            <div class="col-lg-1"></div>
             <div class="ct-blog col-sm-6 col-md-4">
                 <center> <h4>NEWS</h4> </center>
                 <div class="inner">
@@ -67,6 +76,7 @@ welcome: Welcome to the Meyer Lab
                     </div>
                 </div>
             </div>
+            <div class="col-lg-2"></div>
         </div>
     </div>
 </section>

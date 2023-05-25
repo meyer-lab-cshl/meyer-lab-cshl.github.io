@@ -15,6 +15,17 @@ image: img/profile.png
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> May 19, 2023 |</span>
+        <strong>Maha joins the Meyer lab!</strong>
+        We are excited to welcome Maha Syed to the team. Maha is a CSHL graduate
+        student who rotated with us in the spring and will conduct her thesis
+        research in the Meyer lab.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> May 8, 2023 |</span>
         <strong>Welcome to the Meyer lab,  Vasilisa!</strong>
         Vasilisa Kolavela has started as computatinal science developer,
@@ -32,7 +43,7 @@ image: img/profile.png
         <div>
         <img class="img-responsive rounded" style="display:block;
         margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
-        width:300px;height:auto;" src="/img/cake.jpg">
+        width:300px;height:auto;" src="/img/gallery/cake.jpg">
     </div>
     </div>
 </div>
@@ -85,7 +96,7 @@ image: img/profile.png
         work and live scenes with @CarcySalome from our lab @cshl! </p>
         <img class="img-responsive rounded" style="display:block;
         margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
-        width:300px;height:auto;" src="/img/radiolab3.jpeg">
+        width:300px;height:auto;" src="/img/gallery/radiolab3.jpeg">
     </div>
 </div>
 <div class="row">

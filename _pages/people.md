@@ -7,7 +7,7 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
-        <img src="/img/hannah-square.jpg" class="circular" alt="Hannah">
+        <img src="/img/people/hannah-square.jpg" class="circular" alt="Hannah">
         <div class="desc">
             <strong>Hannah Meyer</strong><br>
             Hannah is an Assistant Professor and the lab’s principal
@@ -19,7 +19,7 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/amitava-square.jpg" class="circular" alt="Amitava">
+        <img src="/img/people/amitava-square.jpg" class="circular" alt="Amitava">
         <div class="desc">
             <strong>Amitava Banerjee</strong><br>
             Amitava is a joint postdoctoral fellow in  the Meyer and Navlakha
@@ -30,7 +30,7 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/yong-square.jpg" class="circular" alt="Yong">
+        <img src="/img/people/yong-square.jpg" class="circular" alt="Yong">
         <div class="desc">
             <strong>Yong Lin</strong><br>
             Yong is a Postdoctoral Fellow. He received a Ph.D. in Immunology
@@ -40,7 +40,7 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/rish-square.jpeg" class="circular" alt="Salome">
+        <img src="/img/people/rish-square.jpeg" class="circular" alt="Salome">
         <div class="desc">
             <strong>Rishvanth Prabakar</strong><br>
         Rish is a postdoctoral fellow. He studies the interaction between T cells
@@ -55,7 +55,7 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
-        <img src="/img/salome-square.jpg" class="circular" alt="Salome">
+        <img src="/img/people/salome-square.jpg" class="circular" alt="Salome">
         <div class="desc">
             <strong>Salomé Carcy</strong><br>
         Salomé is a PhD student (CSHL School of Biological Sciences) and a
@@ -67,7 +67,18 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/sarahc-square.jpg" class="circular" alt="Sarah C">
+        <img src="/img/people/maha-square.jpg" class="circular" alt="Maha">
+        <div class="desc">
+            <strong>Maha Syed</strong><br>
+            Maha is a PhD student at CSHL School of Biological Sciences. She
+            majored in biochemistry with a minor in computer science at
+            University of Minnesota-Twin Cities. In the Meyer lab, she studies
+            the fundamentals of thymic selection.
+        </div>
+    </div>
+
+    <div class="responsive gallery">
+        <img src="/img/people/sarahc-square.jpg" class="circular" alt="Sarah C">
         <div class="desc">
             <strong>Sarah Chapin</strong><br>
             Sarah is a Computational Science Developer. She received an A.B. in
@@ -79,7 +90,7 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/vasilisa-square.jpg" class="circular" alt="Vasilisa">
+        <img src="/img/people/vasilisa-square.jpg" class="circular" alt="Vasilisa">
         <div class="desc">
             <strong>Vasilisa Kovaleva</strong><br>
             Vasilisa is a Computational Science Developer. She received a B.Sc
@@ -90,8 +101,12 @@ permalink: /people/
             receptors.
         </div>
     </div>
+</div>
+
+
+<div class="row">
     <div class="responsive gallery">
-        <img src="/img/joshua-square.jpg" class="circular" alt="Joshua">
+        <img src="/img/people/joshua-square.jpg" class="circular" alt="Joshua">
         <div class="desc">
             <strong>Joshua Torres</strong><br>
             Joshua is a research technician in the Meyer Laboratory. He received
@@ -99,24 +114,8 @@ permalink: /people/
             epithelial cell development in humans.
         </div>
     </div>
-
-</div>
-
-
-<div class="row">
     <div class="responsive gallery">
-        <img src="/img/jason-square.png" class="circular" alt="Jason">
-        <div class="desc">
-            <strong>Jason Carter</strong><br>
-            Jason is a Stony Brook MD/PhD student. He completed his PhD in the
-            Atwal lab at CSHL using statistical modeling and single-cell
-            sequencing to study T cell receptor repertoire. In the Meyer lab,
-            he is studying the role of thymic transcription start sites in
-            promiscuous gene expression.
-        </div>
-    </div>
-    <div class="responsive gallery">
-        <img src="/img/conny-square.jpg" class="circular" alt="conny">
+        <img src="/img/people/conny-square.jpg" class="circular" alt="conny">
         <div class="desc">
             <strong>Cornelia Wincek</strong><br>
             Cornelia is a visiting Molecular Biotechnology master student from
@@ -126,7 +125,7 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/caroline.jpg" class="circular" alt="Caroline">
+        <img src="/img/people/caroline.jpg" class="circular" alt="Caroline">
         <div class="desc">
             <strong>Caroline Walter</strong><br>
             Caroline is a student at Tufts University majoring in Computational
@@ -137,11 +136,22 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/idee-square.jpg" class="circular" alt="Idee">
+        <img src="/img/people/idee-square.jpg" class="circular" alt="Idee">
         <div class="desc">
             <strong>Idee Mallardi</strong><br>
             Idee supports our lab in all matters that relate to administration,
             recruitment, and organization.
         </div>
     </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8"><hr></div>
+</div>
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <h4><a href="/alumni/">Meyer Lab Alumni</a></h4>
+    <div class="col-lg-8"></div>
 </div>

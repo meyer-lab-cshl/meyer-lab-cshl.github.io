@@ -15,6 +15,10 @@
                     <a href="#page-top"></a>
                 </li>
                 <li class="page-scroll">
+                    <a href="/" {% if page.url=="/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
+                        Home</a>
+                </li>
+                <li class="page-scroll">
                     <a href="/research/" {% if page.url=="/research/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
                         Research</a>
                 </li>
@@ -38,8 +42,15 @@
                     </ul>
                 </li>
                 <li class="page-scroll">
-                    <a href="/news/" {% if page.url=="/news/" %}style="color: #{{ site.color.active }}" ;{% endif %}>
-                        News</a>
+                    <a href="/home/" {% if page.url=="/news/" or page.url=="/gallery/" %}style="color: #{{ site.color.active }}" ;{% endif %}
+                        data-toggle="dropdown">
+                        Happenings
+                    </a>
+
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <li><a class="dropdown-item" href="/news/">News</a></li>
+                        <li><a class="dropdown-item" href="/gallery/">Gallery</a></li>
+                    </ul>
                 </li>
                 <li class="page-scroll">
                     <a href="/join/" {% if page.url=="/join/" %}style="color: #{{ site.color.active }}" ;{% endif %}>

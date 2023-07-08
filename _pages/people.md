@@ -136,11 +136,13 @@ permalink: /people/
     </div>
 
     <div class="responsive gallery">
-        <img src="/img/people/idee-square.jpg" class="circular" alt="Idee">
+        <img src="/img/people/antonia-square.jpg" class="circular" alt="Antonia">
         <div class="desc">
-            <strong>Idee Mallardi</strong><br>
-            Idee supports our lab in all matters that relate to administration,
-            recruitment, and organization.
+            <strong>Antonia Little</strong><br>
+            Antonia is the Scientific Administrator for the Meyer Lab. She received
+            her B.A. in Psychology from Hunter College. She supports our lab in
+            all matters that relate to administration, recruitment, and
+            organization.
         </div>
     </div>
 </div>

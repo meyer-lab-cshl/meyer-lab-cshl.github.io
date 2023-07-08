@@ -16,6 +16,6 @@ Hannah Meyer
 hmeyer@cshl.edu  
 
 Administrative assistant  
-Idee Mallardi  
+Antonia Little  
 (516) 367-6861  
-mallardi@cshl.edu  
+alittle@cshl.edu  

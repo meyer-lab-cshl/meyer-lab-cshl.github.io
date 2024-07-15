@@ -6,8 +6,10 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 
-gem "jekyll", "~> 3.8"
-gem "font-awesome-less"
-gem "kramdown-parser-gfm"
+#gem "jekyll", "~> 3.8"
+#gem "font-awesome-less"
+#gem "kramdown-parser-gfm"
 
-gem "webrick", "~> 1.7"
+#gem "webrick", "~> 1.7"
+
+gemspec

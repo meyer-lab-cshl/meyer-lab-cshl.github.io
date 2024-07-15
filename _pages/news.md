@@ -15,6 +15,169 @@ image: img/profile.png
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> June 18th, 2024 |</span>
+        <strong>Many welcomes and two good byes!</strong>
+        Lab gathering to welcome our latest lab members - Todor, new CSHL PhD
+        student, Madison and Deena - new technicians in the lab and Nadia - a
+        CSHL PREP student. We also say good bye to Salome, who heads back to
+        France to continue with her medical trainee and Josh, who will start
+        grad school. All the best for your studies and your future careers,
+        Salome and Josh. We will miss you!
+        </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/salome-goodbye.jpeg">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> May 6th, 2024 |</span>
+        <strong>First Meyer lab PhD students graduates!</strong>
+        Salome graduated today, impressing the attendees not only with her
+        science, but also her impresive literal and metaphorical juggling skills!
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/salome-graduation.jpg">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> April 22nd, 2024 |</span>
+        <strong>Congratulations, Dr. Carcy!</strong>
+        Salome successfully defended her thesis on her T cells meet their fate
+        in the thymus!
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/salome-defense.jpeg">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> March 19th, 2024 |</span>
+        <strong>Alex presenting at the PFF symposium!</strong>
+        Alex presented his work on lineage tracing of thymic epithelial cells
+        on the Partners for the Future symposium. We are lucky, he'll stay for
+        the summer before heading of to college.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> January 25th, 2024 |</span>
+        <strong>New preprint alert</strong>
+         Collaborative effort between the Navlahka and Meyer labs, led by our
+         joint postdoc Amitava, where we develop a new software for TCR:pMHC binding
+         predictions. Check out the preprint: <a
+        href="https://www.biorxiv.org/content/10.1101/2024.01.22.576714v2">BATMAN</a>.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> January 25th, 2024 |</span>
+        <strong>Mentorship award</strong>
+         Congratulations to Hannah for receiving the CSHL Women in Science and
+         Engineering Faculty Mentorship award!
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/award.jpeg">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> December 8th, 2023 |</span>
+        <strong>New preprint alert</strong>
+         Led by Salome and in collaboration with Laurent Gapin, we unraveled
+         the development and functionality of Tinn cells, emphasizing their role
+         in immune responses and their potential as targets for therapeutic
+         interventions. Check out the <a
+        href="https://www.biorxiv.org/content/10.1101/2023.12.07.570707v1">preprint</a>.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> November 29th, 2023 |</span>
+        <strong>New preprint alert</strong>
+         We developed a new tool for the design of
+         high-throughput TCR specificity assays, that allow for error detection
+         and automated read-out of the peptid specificity. Check out
+         Vasilisa's work: <a
+        href="https://www.biorxiv.org/content/10.1101/2023.11.28.569052v2">copepodTCR</a>.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> July 19, 2023 |</span>
+        <strong>Bye, Conny!</strong>
+        Conny is on her way to back to Germany, to finish her Master's degree.
+        Conny expanded our tissue slice culture work and we are excited to work
+        with the system that she has set up!
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> April 28th, 2023 |</span>
+        <strong>Public discussion about sexism in science!</strong>
+        Hannah is one of the panelist in a <a
+        href="https://www.cshl.edu/library-news/the-exceptions-a-center-for-the-humanities-event-featuring-kate-zernike-and-nancy-hopkins">discussion</a>
+        centered around sexism in science and why it’s necessary to change the
+        world if we want a truly level playing field for women and minorities in
+        science. Check out the recording <a href="https://www.youtube.com/watch?v=J_ngg-VVxmc">here</a>.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> March 19th, 2024 |</span>
+        <strong>Alex presenting at the PFF symposium!</strong>
+        Alex presented his work on lineage tracing of thymic epithelial cells
+        on the Partners for the Future symposium. We are lucky, he'll stay for
+        the summer before heading of to college.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> June 14-17, 2023 |</span>
+        <strong>First Meyer Lab retreat!</strong>
+        A few days filled with science, hikes and food (German, Indian, French
+        and Russian Cusisine)!
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/retreat.jpeg">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> May 19, 2023 |</span>
         <strong>Maha joins the Meyer lab!</strong>
         We are excited to welcome Maha Syed to the team. Maha is a CSHL graduate

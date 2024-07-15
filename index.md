@@ -50,14 +50,15 @@ welcome: Welcome to the Meyer Lab
                         <a href="/news/"><img class="img-responsive" style="display:block; margin-left:
                         auto; margin-right: auto;
                         padding-right:15px;padding-left:15px;padding-top:0px;
-                        width:300px;height:auto;" src="/img/gallery/cake.jpg"></a>
+                        width:300px;height:auto;"
+                        src="/img/news/salome-goodbye.jpeg"></a>
                     </div>
                     <div class="ct-blog-content">
                         <div class="ct-blog-date">
-                            <strong>May 2023</strong>
+                            <strong>June, 2024</strong>
                         </div>
-                        <h5 class="ct-blog-header">Welcome to the lab, Vasilisa
-                        & Maha!</h5>
+                        <h5 class="ct-blog-header">Many Welcomes and two
+                        Good byes!</h5>
                     </div>
                 </div>
             </div>

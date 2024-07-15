@@ -55,14 +55,13 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
-        <img src="/img/people/salome-square.jpg" class="circular" alt="Salome">
+        <img src="/img/people/todor-square.jpg" class="circular" alt="Todor">
         <div class="desc">
-            <strong>Salomé Carcy</strong><br>
-        Salomé is a PhD student (CSHL School of Biological Sciences) and a
-        medical student from the University of Paris.
-        In her PhD research in the Meyer lab, she studies T cell
-        development in the thymus through single cell transcriptomics and
-        multi-omics approaches.
+            <strong>Todor Cvetanovic</strong><br>
+        Todor is an immunology novice, a PhD student interested in RNA biology,
+        regulation and mechanisms of promiscuous gene expression in the thymus.
+        He received his BSc and MSc degrees in Molecular Biology from University
+        of Belgrade, Serbia.
         </div>
     </div>
 
@@ -115,26 +114,40 @@ permalink: /people/
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/people/conny-square.jpg" class="circular" alt="conny">
+        <img src="/img/people/deena-square.jpg" class="circular" alt="deena">
         <div class="desc">
-            <strong>Cornelia Wincek</strong><br>
-            Cornelia is a visiting Molecular Biotechnology master student from
-            Heidelberg University. She also received her B.Sc. from  Heidelberg University.
-            In the Meyer lab she will establish a protocol to study key parameters of
-            negative selection in the murine thymus.
+            <strong>Deena Netz</strong><br>
+            Deena is a research technician in the Meyer Laboratory.
+            She received a B.S. in Biology and Forensic Science from Syracuse
+            University. With a background in drug development and molecular
+            biology, she now focuses on researching human thymic epithelial
+            cell development.
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/people/caroline.jpg" class="circular" alt="Caroline">
+        <img src="/img/people/madison.jpeg" class="circular" alt="Madison">
         <div class="desc">
-            <strong>Caroline Walter</strong><br>
-            Caroline is a student at Tufts University majoring in Computational
-            Biology and is working with the Meyer lab on her undergraduate thesis.
-            She is working to develop and enhance an R/CRAN package for genotype
-            quality control in genetic association studies.
+            <strong>Madison Lapine</strong><br>
+            Madison is a Research Technician in the Meyer Lab. She received a
+            B.S. in Biology (Biochemistry concentration) and a minor in Global
+            and Public Health at Emmanuel College, Boston. In the Meyer lab, she
+            studies human thymic epithelial cell development.
         </div>
     </div>
 
+    <div class="responsive gallery">
+        <img src="/img/people/nadia-square.png" class="circular" alt="Nadia">
+        <div class="desc">
+            <strong>Nadia Prasad</strong><br>
+            Nadia is a CSHL PREP student. She studies thymocyte development.
+            She received her Bachelor of Science in Cellular and Molecular Biology
+            from Cornell University.
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/antonia-square.jpg" class="circular" alt="Antonia">
         <div class="desc">

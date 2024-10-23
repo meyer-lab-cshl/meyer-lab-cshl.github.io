@@ -15,10 +15,39 @@ image: img/profile.png
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> June 14-17, 2023 |</span>
+        <strong>Meyer Lab retreat 2024!</strong>
+        Two days at the beautiful CSHL Banbury campus filled with lot's of
+        science, even more food and some truffle making!
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/truffles.jpeg">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> September 24th, 2024 |</span>
+        <strong>New paper alert</strong>
+         Our work led by Salome and in collaboration with Laurent Gapin, on the
+         development and functionality of Tinn cells is now <a
+        href="https://www.sciencedirect.com/science/article/pii/S2211124724010568?via%3Dihub">published</a>.
+        For a layman's summary, have a look at this nice <a
+        href="https://www.cshl.edu/the-curious-immune-cells-caught-between-worlds/">write up</a>
+        by the CSHL public affairs team!
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> June 18th, 2024 |</span>
         <strong>Many welcomes and two good byes!</strong>
-        Lab gathering to welcome our latest lab members - Todor, new CSHL PhD
-        student, Madison and Deena - new technicians in the lab and Nadia - a
+        Lab gathering to welcome our latest lab members - Todor and Yunxin, new CSHL PhD
+        students, Madison and Deena - new technicians in the lab and Nadia - a
         CSHL PREP student. We also say good bye to Salome, who heads back to
         France to continue with her medical trainee and Josh, who will start
         grad school. All the best for your studies and your future careers,

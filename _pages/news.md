@@ -17,7 +17,7 @@ image: img/profile.png
     <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> October 17-18, 2024 |</span>
         <strong>Meyer Lab retreat 2024!</strong>
-        Two days at the beautiful CSHL Banbury campus filled with lot's of
+        Two days at the beautiful CSHL Banbury campus filled with lots of
         science, even more food and some truffle making!
          </p>
         <div>

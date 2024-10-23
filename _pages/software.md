@@ -7,9 +7,49 @@ image: /img/antigen.png
 
 ### Software
 ___
+
 <div class="row top-pad">
     <div class="col-lg-3" >
-        <img class="img-responsive" style="float: center; padding-top:30px;" src="/img/simulatedPhenotypes.png">
+        <img class="img-responsive" style="float: center; padding-left:30px;
+        width:120px;height:auto;"
+        src="/img/software/batman.jpg">
+    </div>
+    <div class="col-lg-8">
+        <p>
+            <a href="https://github.com/meyer-lab-cshl/BATMAN/">BATMAN</a><br>
+            BATMAN - Bayesian Inference of Activation of TCR by Mutant Antigens:
+            python package for predicting TCR activation by mutant peptides
+            based on their distances to the TCR's index peptide. BATMAN can be
+            used for within-TCR and cross-TCR predictions and in active learning
+            mode to design TCR activation assays.
+        </p>
+    </div>
+</div>
+
+<div class="row top-pad">
+    <div class="col-lg-3" >
+        <img class="img-responsive" style="float: center;
+        width:250px;height:auto;"
+        src="/img/software/copepodtcr.jpg">
+    </div>
+    <div class="col-lg-8">
+        <p>
+            <a
+            href="https://github.com/meyer-lab-cshl/copepodTCR/">copepodTCR</a><br>
+            copepodTCR - COmbinatorial PEptide POoling Design for TCR
+            specificity: python package and webtool for the design of
+            combinatorial peptide pooling schemes for TCR speficity assays.
+            CopepodTCR guides the user through all stages of the experiment
+            design and interpetation, including pooling schemes, peptide mixing
+            layouts and results evaluation.
+        </p>
+    </div>
+</div>
+
+<div class="row top-pad">
+    <div class="col-lg-3" >
+        <img class="img-responsive" style="float: center; padding-top:30px;"
+        src="/img/software/simulatedPhenotypes.png">
     </div>
     <div class="col-lg-8">
         <p>
@@ -25,7 +65,8 @@ ___
 
 <div class="row top-pad">
     <div class="col-lg-3" >
-        <img class="img-responsive" style="float: center; padding-top:0px;" src="/img/qc.png">
+        <img class="img-responsive" style="float: center; padding-top:0px;"
+        src="/img/software/qc.png">
     </div>
     <div class="col-lg-8">
         <p>
@@ -41,7 +82,8 @@ ___
 
 <div class="row top-pad">
     <div class="col-lg-3" >
-        <img class="img-responsive" style="float: center; padding-top:0px;" src="/img/limmbo.png">
+        <img class="img-responsive" style="float: center; padding-top:0px;"
+        src="/img/software/limmbo.png">
     </div>
     <div class="col-lg-8">
         <p>

@@ -44,7 +44,7 @@ permalink: /people/
         <div class="desc">
             <strong>Rishvanth Prabakar</strong><br>
         Rish is a postdoctoral fellow. He studies the interaction between T cells
-        and epitelial cells in the thymus to understand the process of negative
+        and epithelial cells in the thymus to understand the process of negative
         selection which helps prevent auto immunity. He was previously trained in
         molecular and computational biology focusing on single cell genomics
         at the University of Southern California.
@@ -55,17 +55,6 @@ permalink: /people/
 
 <div class="row">
     <div class="responsive gallery">
-        <img src="/img/people/todor-square.jpg" class="circular" alt="Todor">
-        <div class="desc">
-            <strong>Todor Cvetanovic</strong><br>
-        Todor is an immunology novice, a PhD student interested in RNA biology,
-        regulation and mechanisms of promiscuous gene expression in the thymus.
-        He received his BSc and MSc degrees in Molecular Biology from University
-        of Belgrade, Serbia.
-        </div>
-    </div>
-
-    <div class="responsive gallery">
         <img src="/img/people/maha-square.jpg" class="circular" alt="Maha">
         <div class="desc">
             <strong>Maha Syed</strong><br>
@@ -75,7 +64,27 @@ permalink: /people/
             the fundamentals of thymic selection.
         </div>
     </div>
-
+    <div class="responsive gallery">
+        <img src="/img/people/todor-square.jpg" class="circular" alt="Todor">
+        <div class="desc">
+            <strong>Todor Cvetanovic</strong><br>
+            Todor is an immunology novice, a PhD student interested in RNA biology,
+            regulation and mechanisms of promiscuous gene expression in the thymus.
+            He received his BSc and MSc degrees in Molecular Biology from University
+            of Belgrade, Serbia.
+        </div>
+    </div>
+    <div class="responsive gallery">
+        <img src="/img/people/yunxin-square.jpg" class="circular" alt="Yunxin">
+        <div class="desc">
+            <strong>Yunxin Xie</strong><br>
+            Yunxin is a CSHL Ph.D. student jointly with Dr. Navlakha. She received
+            a B.Sc. in biological sciences from Tsinghua University,
+            where she studied mechanisms of transcription regulation. In the Meyer Lab,
+            she studies immune molecules, cells, and their interactions in space
+            and time.
+        </div>
+    </div>
     <div class="responsive gallery">
         <img src="/img/people/sarahc-square.jpg" class="circular" alt="Sarah C">
         <div class="desc">
@@ -87,7 +96,9 @@ permalink: /people/
             presentation in the thymus.
         </div>
     </div>
+</div>
 
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/vasilisa-square.jpg" class="circular" alt="Vasilisa">
         <div class="desc">
@@ -98,19 +109,6 @@ permalink: /people/
             differentiation between self and foreign by adaptive immunity.
             In the Meyer Lab, she studies the cross-reactivity of T-cell
             receptors.
-        </div>
-    </div>
-</div>
-
-
-<div class="row">
-    <div class="responsive gallery">
-        <img src="/img/people/joshua-square.jpg" class="circular" alt="Joshua">
-        <div class="desc">
-            <strong>Joshua Torres</strong><br>
-            Joshua is a research technician in the Meyer Laboratory. He received
-            a B.S. in Biochemistry from Stony Brook University. He studies thymic
-            epithelial cell development in humans.
         </div>
     </div>
     <div class="responsive gallery">
@@ -134,7 +132,6 @@ permalink: /people/
             studies human thymic epithelial cell development.
         </div>
     </div>
-
     <div class="responsive gallery">
         <img src="/img/people/nadia-square.png" class="circular" alt="Nadia">
         <div class="desc">

@@ -7,6 +7,14 @@ permalink: /alumni/
 
 <div class="row">
     <div class="responsive gallery">
+        <img src="/img/people/joshua-square.jpg" class="circular" alt="Joshua">
+        <div class="desc">
+            <strong>Joshua Torres</strong><br>
+            Joshua was a research technician in the Meyer Laboratory. He is now
+            pursuing a PhD in electrical engineering at Carnegie Melon.
+        </div>
+    </div>
+    <div class="responsive gallery">
         <img src="/img/people/salome-square.jpg" class="circular" alt="Salome">
         <div class="desc">
             <strong>Salomé Carcy</strong><br>

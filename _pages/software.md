@@ -39,8 +39,8 @@ ___
             copepodTCR - COmbinatorial PEptide POoling Design for TCR
             specificity: python package and webtool for the design of
             combinatorial peptide pooling schemes for TCR speficity assays.
-            CopepodTCR guides the user through all stages of the experiment
-            design and interpetation, including pooling schemes, peptide mixing
+            CopepodTCR guides the user through all stages of the experimental
+            design and interpretation, including pooling schemes, peptide mixing
             layouts and results evaluation.
         </p>
     </div>

@@ -40,6 +40,9 @@ permalink: /alumni/
             went on to become software engineer at Elevance Health.
         </div>
     </div>
+</div>
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/jason-square.png" class="circular" alt="Jason">
         <div class="desc">
@@ -50,9 +53,6 @@ permalink: /alumni/
             resident at UW medicine.
         </div>
     </div>
-</div>
-
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/katie-square.jpg" class="circular" alt="" width="800" height="400">
         <div class="desc">
@@ -81,6 +81,9 @@ permalink: /alumni/
             undergraduate in Computer Science.
         </div>
     </div>
+</div>
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/aybuke-square.jpg" class="circular" alt="" width="800" height="400">
         <div class="desc">

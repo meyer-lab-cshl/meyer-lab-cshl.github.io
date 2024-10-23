@@ -15,7 +15,7 @@ image: img/profile.png
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
-        <p><span style="color:#b4bcc2"> June 14-17, 2023 |</span>
+        <p><span style="color:#b4bcc2"> October 17-18, 2024 |</span>
         <strong>Meyer Lab retreat 2024!</strong>
         Two days at the beautiful CSHL Banbury campus filled with lot's of
         science, even more food and some truffle making!
@@ -168,30 +168,6 @@ image: img/profile.png
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
-        <p><span style="color:#b4bcc2"> April 28th, 2023 |</span>
-        <strong>Public discussion about sexism in science!</strong>
-        Hannah is one of the panelist in a <a
-        href="https://www.cshl.edu/library-news/the-exceptions-a-center-for-the-humanities-event-featuring-kate-zernike-and-nancy-hopkins">discussion</a>
-        centered around sexism in science and why it’s necessary to change the
-        world if we want a truly level playing field for women and minorities in
-        science. Check out the recording <a href="https://www.youtube.com/watch?v=J_ngg-VVxmc">here</a>.
-         </p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-lg-2"></div>
-    <div class="col-lg-8">
-        <p><span style="color:#b4bcc2"> March 19th, 2024 |</span>
-        <strong>Alex presenting at the PFF symposium!</strong>
-        Alex presented his work on lineage tracing of thymic epithelial cells
-        on the Partners for the Future symposium. We are lucky, he'll stay for
-        the summer before heading of to college.
-         </p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-lg-2"></div>
-    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> June 14-17, 2023 |</span>
         <strong>First Meyer Lab retreat!</strong>
         A few days filled with science, hikes and food (German, Indian, French
@@ -223,6 +199,33 @@ image: img/profile.png
         Vasilisa Kolavela has started as computatinal science developer,
         following on from her Master's work on analysing TCR epitope diversity.
         Welcome to the team, Vasilisa! </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> April 28th, 2023 |</span>
+        <strong>Public discussion about sexism in science!</strong>
+        Hannah is one of the panelist in a <a
+        href="https://www.cshl.edu/library-news/the-exceptions-a-center-for-the-humanities-event-featuring-kate-zernike-and-nancy-hopkins">discussion</a>
+        centered around sexism in science and why it’s necessary to change the
+        world if we want a truly level playing field for women and minorities in
+        science. Check out the recording <a href="https://www.youtube.com/watch?v=J_ngg-VVxmc">here</a>.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> April 17th, 2023 |</span>
+        <strong>Victoria presenting her project at the PFF symposium!</strong>
+        Victoria presented her project on tracing thymocyte development and lineage
+        choice in the mouse thymus. It's also her last day in the lab, we wish her
+        all the best for college!
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/gallery/victoria.jpeg">
+         </p>
     </div>
 </div>
 <div class="row">

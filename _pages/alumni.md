@@ -11,7 +11,7 @@ permalink: /alumni/
         <div class="desc">
             <strong>Joshua Torres</strong><br>
             Joshua was a research technician in the Meyer Laboratory. He is now
-            pursuing a PhD in electrical engineering at Carnegie Melon.
+            pursuing a PhD in electrical engineering at Carnegie Mellon.
         </div>
     </div>
     <div class="responsive gallery">

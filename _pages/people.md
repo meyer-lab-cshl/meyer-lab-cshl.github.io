@@ -164,6 +164,26 @@ permalink: /people/
 
 <div class="row">
     <div class="col-lg-2"></div>
-    <h4><a href="/alumni/">Meyer Lab Alumni</a></h4>
+    <h4>Meyer Lab Alumni</h4>
     <div class="col-lg-8"></div>
 </div>
+
+<div class="row">
+    <div class="responsive gallery">
+        <img src="/img/people/2021_lab.jpeg" alt="group-2021">
+        <div class="desc">
+            <strong>Meyer lab 2021</strong><br>
+        </div>
+    </div>
+    <div class="responsive gallery">
+        <img src="/img/people/2023_lab.jpeg"  alt="group-2023">
+        <div class="desc">
+            <strong>Meyer lab 2023</strong><br>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    Check out what our Lab Alumni are up to now: <a href="/alumni/">Meyer Lab Alumni</a>
+</div>
+

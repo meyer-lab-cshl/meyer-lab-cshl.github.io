@@ -2,19 +2,16 @@
 layout: pages
 title: Teaching
 permalink: /teaching/
+image: /img/banners/teaching.jpeg
 ---
 
-### Teaching
-___
-<div class="row top-pad">
-    <div class="col-lg-3" >
-        <img class="img-responsive" style="display:block; margin-left: auto;
-        margin-right: auto;
-        padding-right:15px;padding-left:15px;padding-bottom:15px;padding-top:0px; width:200px;height:auto;" src="/img/compound.png">
+<div class="media-block media-block-sm">
+    <div class="media-block-image">
+        <img src="/img/teaching/compound.png" alt="R data visualisation course">
     </div>
-    <div class="col-lg-8">
+    <div class="media-block-body">
         <p>
-            <a href="https://github.com/meyer-lab-cshl/R-data-visualisation-course">R data visualisation course</a><br>
+            <a href="https://github.com/meyer-lab-cshl/R-data-visualisation-course"><strong>R data visualisation course</strong></a><br>
             Beginner's course for data visualisation and analysis in R.
             It covers setting up R/RStudio, the basics of data visualisation and compound figure
             design as well as data transformation using the R tidyverse - all by
@@ -25,26 +22,19 @@ ___
     </div>
 </div>
 
-<div class="row top-pad">
-    <div class="col-lg-3" >
-        <img class="img-responsive" style="display:block; margin-left: auto;
-        margin-right: auto;
-        padding-right:15px;padding-left:15px;padding-top:0px;
-        width:200px;height:auto;" src="/img/snakemake-dag.png">
+<div class="media-block reverse media-block-sm">
+    <div class="media-block-image">
+        <img src="/img/teaching/snakemake-dag.png" alt="RNAseq Snakemake course">
     </div>
-    <div class="col-lg-8">
+    <div class="media-block-body">
         <p>
-            <a
-            href="https://github.com/meyer-lab-cshl/rnaseq-tutorial">
-            Introduction to RNAseq analysis using Snakemake.</a><br>
-            Course for buildung  an RNAseq analysis pipeline using the
+            <a href="https://github.com/meyer-lab-cshl/rnaseq-tutorial"><strong>Introduction to RNAseq analysis using Snakemake</strong></a><br>
+            Course for buildung an RNAseq analysis pipeline using the
             workflow managment system snakemake. The pipeline includes
             alignment, quality control and differential expression analysis.
-
             The course also contains a homework assignment to test the new
             concepts. The final pipeline and assignment results can be found
-            <a
-            href="https://github.com/meyer-lab-cshl/rnaseq-tutorial-solution">here.</a><br>
+            <a href="https://github.com/meyer-lab-cshl/rnaseq-tutorial-solution">here</a>.
         </p>
     </div>
 </div>

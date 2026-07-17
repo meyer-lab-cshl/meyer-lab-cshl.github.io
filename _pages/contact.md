@@ -2,7 +2,7 @@
 layout: contact
 title: Contact
 permalink: /contact/
-image: /img/CSHL_harbor_view.jpg
+image: /img/banners/CSHL_harbor_view.jpg
 ---
 
 The Meyer Lab is located on the first floor of the Koch Building at CSHL.

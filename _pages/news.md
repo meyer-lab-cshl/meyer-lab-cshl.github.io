@@ -2,16 +2,104 @@
 layout: pages
 title: News
 permalink: /news/
-image: img/profile.png
+image: /img/news/salome-goodbye.jpeg
 ---
 
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
-    <h3>News</h3>
-    <hr></div>
+        <p><span style="color:#b4bcc2"> June 11th, 2026 |</span>
+        <strong>Hannah selected as a Rita Allen Fellow!</strong>
+        Hannah has been named a 2026 Rita Allen Foundation Scholar.
+        Read the announcement
+        <a href="https://ritaallen.org/stories/announcing-the-2026-rita-allen-foundation-scholars/">here</a>.
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/rita-allen-2026.jpg">
+    </div>
+    </div>
 </div>
-
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> December 9th, 2025 |</span>
+        <strong>New preprint</strong>
+         How much self-antigen sampling does central tolerance need? In a
+         <a href="https://www.biorxiv.org/content/10.64898/2025.12.09.693230">new preprint</a>
+         with Saket Navlakha and colleagues, we argue that sparse, random
+         sampling is enough.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> November 25th, 2025 |</span>
+        <strong>New preprint</strong>
+         Maha's
+         <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690541">plinkQC</a>
+         preprint is up: an integrated toolkit for ancestry
+         inference, sample selection, and genotype QC in population genetics.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> November 14th, 2025 |</span>
+        <strong>New paper alert</strong>
+         Co-led by Vasilisa and Guanchen He, with Qin Huang and colleagues, our
+         work on balanced combinatorial pooling designs is now
+         <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf611/8054562">out in <i>Bioinformatics</i></a>,
+         with accompanying open-source tool,
+         <a href="https://codepub.readthedocs.io/en/latest/">codePUB</a>.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> July 25th, 2025 |</span>
+        <strong>New paper alert</strong>
+         BATMAN is out in <a
+        href="https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00257-8"><i>Cell Systems</i></a>!
+         Led by Amitava, with Saket Navlakha, the paper introduces methods and a
+         curated dataset for predicting which peptide mutants activate a given TCR.
+         CSHL Communications has a great
+         <a href="https://www.cshl.edu/batman-brings-tcr-therapy-out-of-the-shadows/">summary</a>
+         of the work.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> June 16th, 2025 |</span>
+        <strong>Bye, Nadia!</strong>
+        Nadia is heading to graduate school at UVA. Sad to see her leave, but
+        excited for her new opportunities!
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/nadiagoodbye.jpeg">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> November 5th, 2024 |</span>
+        <strong>Welcome, Saket!</strong>
+        Collaborator Saket Navlakha is joining the lab as a Simons Foundation
+        PIVOT Fellow. Lots of fun putting a computer science spin on thymic
+        selection. Read the announcement
+        <a href="https://www.simonsfoundation.org/2024/11/05/simons-foundation-announces-third-class-of-pivot-fellows/">here</a>.
+         </p>
+    </div>
+</div>
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">

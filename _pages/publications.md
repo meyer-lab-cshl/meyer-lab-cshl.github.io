@@ -2,28 +2,30 @@
 layout: pages
 title: Publications
 permalink: /publications/
-image: /img/heterogeneity.png
+image: /img/banners/database.png
+banner_opacity: 0.9
 ---
-
-### Publications
-___
 
 #### Preprints
 
 <div class="col-lg-11">
     <p>
-    Banerjee A, Pattinson DJ, Wincek CL, Bunk P, Chapin SR, Navlakha S*, Meyer HV*
-    (2024) <a href="https://www.biorxiv.org/content/10.1101/2024.01.22.576714v2">
-    BATMAN: Improved T cell receptor cross-reactivity prediction
-    benchmarked on a comprehensive mutational scan database</a>,
-    bioRxiv, 2024.01.22.576714
+    Meyer HV*, Dasgupta S, Banerjee A, Lin Y, Prabakar R, Chapin SR, Kingsford C, Navlakha S*
+    (2025) <a href="https://www.biorxiv.org/content/10.64898/2025.12.09.693230">
+    Sparse, random sampling is sufficient for central tolerance</a>,
+    bioRxiv, 10.64898/2025.12.09.693230 (in revision)
+    </p>
+    <p>
+    Syed M, Walter C, Meyer HV (2025) <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690541">
+    plinkQC: An Integrated Tool for Ancestry Inference, Sample Selection, and Quality Control in Population Genetics</a>,
+    bioRxiv, 10.1101/2025.11.25.690541 (in revision)
     </p>
     <p>
     Kovaleva VA, Pattinson DJ, Barton C, Chapin SR, Minervina AA, Richards KA, Sant
-    AJ, Thomas PG*, Pogorelyy MV*, Meyer HV* (2023) <a
-    href="https://www.biorxiv.org/content/10.1101/2023.11.28.569052v2">copepodTCR:
-    Identification of Antigen-Specific T Cell Receptors with combinatorial peptide
-    pooling</a>, bioRxiv, 2023.11.28.569052
+    AJ, Thomas PG*, Pogorelyy MV*, Meyer HV* (2025) <a
+    href="https://www.biorxiv.org/content/10.1101/2023.11.28.569052v2">
+    Identification of Antigen-Specific T Cell Receptors with combinatorial peptide pooling</a>,
+    bioRxiv, 10.1101/2023.11.28.569052 (in revision)
     </p>
     <p>
     Yamrom B, Lee Y, Marks S, Chorbadjiev L, Meyer HV, Iossifov I (2022) <a
@@ -36,11 +38,23 @@ ___
 
 <div class="col-lg-11">
     <p>
-    Loh L, Carcy S, Krovi HS, Domenico J, Spengler A, Lin Y, Torres J, Prabakar R,
-    Palmer W, Norman PJ, Stone M, Brunetti T, Meyer HV*, Gapin L (2024) Unraveling
-    the Phenotypic States of Human innate-like T Cells:
+    Banerjee A, Pattinson DJ, Wincek CL, Bunk P, Axhemi A, Chapin SR, Navlakha S*, Meyer HV*
+    (2025) <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00257-8">
+    T cell receptor cross-reactivity prediction improved by a comprehensive epitope mutation effect database</a>,
+    <i>Cell Systems</i>, 16:101345
+    </p>
+    <p>
+    He G#, Kovaleva VA#, Barton C, Thomas PG, Pogorelyy MV, Meyer HV*, Huang Q* (2025)
+    <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf611/8054562">
+    Unbiased and Error-Detecting Combinatorial Pooling Experiments with Balanced Constant-Weight Gray Codes for Consecutive Positives Detection</a>,
+    <i>Bioinformatics</i>, btaf611
+    </p>
+    <p>
+    Loh L, Carcy S, Krovi HS, Domenico J, Spengler A, Lin Y, Torres J, Prabakar RK,
+    Palmer W, Norman PJ, Stone M, Brunetti T, Meyer HV*, Gapin L* (2024)
     <a href="https://www.sciencedirect.com/science/article/pii/S2211124724010568?via%3Dihub">
-    Comparative Insights with Conventional T Cells and Mouse Models</a>, Cell Reports
+    Unraveling the Phenotypic States of Human innate-like T Cells: Comparative Insights with Conventional T Cells and Mouse Models</a>,
+    <i>Cell Reports</i>, 43:114705
     </p>
     <p>
     Kleeman SO, Ferrer M, Demestichas B, Bankier S, Lee H, Heywood T, Ruusalepp A,

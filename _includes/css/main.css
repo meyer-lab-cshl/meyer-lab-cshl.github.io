@@ -147,29 +147,416 @@ header .intro-text .name {
     }
 }
 
+/* Full-width page banners */
+.page-banner {
+    position: relative;
+    width: 100%;
+    margin: 0;
+    /* Top padding clears the fixed white nav; keep this white so blue never peeks through */
+    padding: 60px 0 0;
+    background: #fff;
+    text-align: left;
+}
+
+.page-banner-media {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    background: #fff;
+}
+
+@media (min-width: 768px) {
+    .page-banner-media {
+        height: 380px;
+    }
+}
+
+.page-banner-media img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: cover;
+    object-position: center;
+}
+
+.page-banner-top .page-banner-media img {
+    object-position: center 30%;
+}
+
+.page-banner-bottom .page-banner-media img {
+    object-position: center 70%;
+}
+
+@media (min-width: 768px) {
+    .page-banner-right .page-banner-media img {
+        object-position: 28% center;
+    }
+}
+
+.page-banner-fade .page-banner-media img {
+    opacity: var(--banner-opacity, 0.72);
+}
+
+.page-banner-contain .page-banner-media {
+    background: #f7f9fb;
+}
+
+.page-banner-contain .page-banner-media img {
+    object-fit: contain;
+    padding: 24px 0;
+}
+
+.page-banner-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    padding: 48px 28px 22px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.2) 55%, transparent 100%);
+}
+
+.page-banner-heading {
+    margin: 0;
+    max-width: 1100px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.8em;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+}
+
+.page-banner-contain .page-banner-caption {
+    background: linear-gradient(to top, rgba(74, 108, 111, 0.75) 0%, rgba(74, 108, 111, 0.25) 60%, transparent 100%);
+}
+
+.page-banner-contain .page-banner-heading {
+    color: #fff;
+}
+
+@media (min-width: 768px) {
+    .page-banner-heading {
+        font-size: 2.2em;
+    }
+
+    .page-banner-caption {
+        padding: 64px 40px 28px;
+    }
+}
+
+.page-content {
+    padding: 28px 40px 80px;
+}
+
+.page-content p {
+    text-align: justify;
+}
+
+/* Image + text section blocks */
+.media-block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 28px;
+    margin: 28px 0 56px;
+}
+
+.media-block-image {
+    flex: 0 0 40%;
+    max-width: 40%;
+}
+
+.media-block-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+}
+
+.media-block-image img.software-logo {
+    width: 120px;
+    height: 120px;
+    max-width: 120px;
+    max-height: 120px;
+    object-fit: contain;
+    object-position: left center;
+}
+
+.software-list .media-block {
+    align-items: center;
+}
+
+.software-list .media-block-image {
+    flex: 0 0 120px;
+    width: 120px;
+    max-width: 120px;
+    min-width: 0;
+    height: 120px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.software-list .media-block-image img {
+    width: 100%;
+    height: 100%;
+    max-width: 120px;
+    max-height: 120px;
+    min-width: 0;
+    object-fit: contain;
+    object-position: left center;
+}
+
+.media-block-sm .media-block-image {
+    flex: 0 0 220px;
+    width: 220px;
+    max-width: 220px;
+    height: 220px;
+    overflow: hidden;
+}
+
+.media-block-sm .media-block-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.media-block-sm .media-block-body {
+    flex: 1 1 68%;
+}
+
+.media-block-body {
+    flex: 1 1 52%;
+    min-width: 260px;
+    text-align: justify;
+}
+
+.media-block-body h4,
+.section-heading {
+    margin-top: 0;
+}
+
+.media-block.reverse {
+    flex-direction: row-reverse;
+}
+
+.media-block .key-pubs {
+    margin-top: 16px;
+}
+
+.media-block .key-pubs p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.page-intro {
+    text-align: justify;
+    margin-bottom: 36px;
+}
+
+@media (max-width: 767px) {
+    .media-block,
+    .media-block.reverse {
+        flex-direction: column;
+    }
+
+    .media-block-image {
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+
+    .media-block-sm .media-block-image {
+        flex-basis: 220px;
+        width: 220px;
+        max-width: 220px;
+        height: 220px;
+        margin: 0 auto;
+    }
+
+    .software-list .media-block,
+    .software-list .media-block.reverse {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: center;
+        gap: 12px;
+        margin: 20px 0 28px;
+    }
+
+    .software-list .media-block-image {
+        flex: 0 0 120px;
+        width: 120px;
+        max-width: 120px;
+        min-width: 0;
+        height: 120px;
+    }
+
+    .software-list .media-block-image img,
+    .software-list .media-block-image img:not(.software-logo) {
+        width: 100%;
+        height: 100%;
+        max-width: 120px;
+        max-height: 120px;
+        object-fit: contain;
+        object-position: left center;
+    }
+
+    .software-list .media-block-body {
+        flex: 1 1 0;
+        min-width: 0;
+    }
+
+    .page-content {
+        padding: 20px 18px 60px;
+    }
+}
+
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    min-height: 80px;
+    font-weight: 600;
+    min-height: 56px;
+    letter-spacing: 0.04em;
+    transition: box-shadow 0.25s ease;
+}
+
+.navbar,
+.navbar-default,
+.navbar-fixed-top {
+    background-color: #fff !important;
+    background-image: none !important;
+}
+
+/* Option 3: slim white nav */
+.navbar-default {
+    border: 0 !important;
+    border-bottom: 1px solid rgba(74, 108, 111, 0.12) !important;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.04);
+    z-index: 1030;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+    color: #{{ site.color.text }} !important;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: auto;
+    font-size: 1.15em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.navbar-default .navbar-brand img {
+    height: 34px;
+    width: auto;
+    /* KO logo is white; invert for light background */
+    filter: brightness(0) saturate(100%);
+    opacity: 0.85;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-weight: 600;
+    font-size: 13px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background: transparent !important;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #{{ site.color.active }} !important;
+    background: transparent !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: rgba(74, 108, 111, 0.35);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: transparent;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: rgba(102, 153, 204, 0.12);
+    border-color: #{{ site.color.secondary }};
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #{{ site.color.text }};
+}
+
+.navbar-default .navbar-collapse {
+    border-color: transparent;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-collapse {
+        background-color: #fff;
+        margin: 0 -15px;
+        padding: 8px 15px 16px;
+        border-top: 1px solid rgba(74, 108, 111, 0.1);
+        max-height: calc(100vh - 56px);
+        overflow-y: auto;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu {
+        position: static;
+        float: none;
+        width: auto;
+        margin: 0;
+        padding: 0 0 8px 12px;
+        background-color: transparent;
+        border: 0;
+        box-shadow: none;
+        display: block;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #{{ site.color.text }};
+        padding: 10px 15px;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #{{ site.color.active }};
+        background-color: transparent;
+    }
+}
+
+/* Slightly stronger shadow after scroll; keep height constant so banner never peeks under */
+.navbar-default.navbar-shrink,
+.navbar-default.navbar-solid {
+    background-color: #fff !important;
+    box-shadow: 0 2px 14px rgba(0, 0, 0, 0.08);
 }
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 6px 0;
         line-height: 20px;
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 1.25em;
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
+        padding: 6px 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1.25em;
+    }
+
+    .navbar-fixed-top.navbar-shrink .navbar-brand img {
+        height: 34px;
     }
 }
 
@@ -179,7 +566,7 @@ header .intro-text .name {
 }
 
 .navbar .navbar-nav {
-    letter-spacing: 1px;
+    letter-spacing: 0.04em;
 }
 
 .navbar a:active{

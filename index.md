@@ -2,7 +2,8 @@
 layout: home
 title: Home
 permalink: /
-image: /img/thymus.png
+image: /img/banners/vasculature_1.png
+image_alt: "Credit: Rishvanth Prabakar"
 welcome: Welcome to the Meyer Lab
 ---
 
@@ -16,20 +17,26 @@ welcome: Welcome to the Meyer Lab
             development in the thymus.
         </p>
         <p>
-            We study how the organisation of the thymus and its cells provide an
-            effective education system for T cells. We are particularly interested how the
-            interactions of developing T cells and thymic epithelial cells lead to
-            tolerance induction and generation of diversity in the immune system.
+            The Meyer Lab is focused on two central, interconnected research questions:
+            understanding (1) T cell tolerance induction in the thymus and (2) the
+            resulting TCR diversity and cross-reactivity. We address these
+            questions in a multi-faceted manner, leveraging <i>in silico</i> and statistical
+            models, genomics on mouse models, human clinical samples and most recently,
+            advanced imaging technologies.
         </p>
         <p>
-            The Meyer Lab seeks to answer these questions by combining genomics,
-            quantitative genetics and <i>in silico</i> thymic selection models.
+            Addressing research question (1), we study how the organisation of the thymus
+            and its cells provide an effective education system for T cells. We are
+            particularly interested how the interactions of developing T cells and thymic
+            epithelial cells lead to tolerance induction and generation of diversity in the
+            immune system. For research question (2), we are developing computational tools
+            and models for TCR cross-reactivity prediction and assessment.
         </p>
         <p>
-            Our current research focuses on understanding the regulation of promiscuous gene expression in the
-            human and mouse thymus, determining the genetic and epigenetic drivers of
-            thymocyte development and differentiation and developing a comprehensive
-            model of central tolerance induction.
+            Our current research focuses on understanding the regulation of cellular and
+            molecular diversity in the human thymic epithelium, evolutionary principles of
+            T cell receptor diversity, and developing a comprehensive model of
+            central tolerance induction.
         </p>
     </div>
 </div>
@@ -51,14 +58,14 @@ welcome: Welcome to the Meyer Lab
                         auto; margin-right: auto;
                         padding-right:15px;padding-left:15px;padding-top:0px;
                         width:300px;height:auto;"
-                        src="/img/news/truffles.jpeg"></a>
+                        src="/img/news/rita-allen-2026.jpg"></a>
                     </div>
                     <div class="ct-blog-content">
                         <div class="ct-blog-date">
-                            <strong>October, 2024</strong>
+                            <strong>June, 2026</strong>
                         </div>
-                        <h5 class="ct-blog-header">Science and chocolates at the
-                        lab retreat!</h5>
+                        <h5 class="ct-blog-header">Hannah selected as a Rita
+                        Allen Fellow!</h5>
                     </div>
                 </div>
             </div>

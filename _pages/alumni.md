@@ -2,10 +2,20 @@
 layout: people
 title: Alumni
 permalink: /alumni/
+image: /img/people/2021_lab.jpeg
+banner_position: top
 ---
 
 
 <div class="row">
+    <div class="responsive gallery">
+        <img src="/img/people/nadia-square.png" class="circular" alt="Nadia">
+        <div class="desc">
+            <strong>Nadia Prasad</strong><br>
+            Nadia was a CSHL PREP student in the Meyer lab. She is now a
+            graduate student at the University of Virginia.
+        </div>
+    </div>
     <div class="responsive gallery">
         <img src="/img/people/joshua-square.jpg" class="circular" alt="Joshua">
         <div class="desc">
@@ -31,6 +41,9 @@ permalink: /alumni/
             Heidelberg University. She is now pursuing her PhD.
         </div>
     </div>
+</div>
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/caroline.jpg" class="circular" alt="Caroline">
         <div class="desc">
@@ -40,9 +53,6 @@ permalink: /alumni/
             went on to become software engineer at Elevance Health.
         </div>
     </div>
-</div>
-
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/jason-square.png" class="circular" alt="Jason">
         <div class="desc">
@@ -72,6 +82,9 @@ permalink: /alumni/
             Jersey and The New Jersey Medical School.
         </div>
     </div>
+</div>
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/lily.jpg" class="circular" alt="" width="800" height="400">
         <div class="desc">
@@ -81,9 +94,6 @@ permalink: /alumni/
             undergraduate in Computer Science.
         </div>
     </div>
-</div>
-
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/aybuke-square.jpg" class="circular" alt="" width="800" height="400">
         <div class="desc">

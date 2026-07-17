@@ -2,7 +2,7 @@
 layout: pages
 title: Gallery
 permalink: /gallery/
-image: img/profile.png
+image: /img/banners/beach.jpeg
 ---
 
 <div class="row">

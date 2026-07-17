@@ -32,6 +32,17 @@ $('body').scrollspy({
 })
 
 // Closes the Responsive Menu on Menu Item Click
-$('.navbar-collapse ul li a').click(function() {
-    $('.navbar-toggle:visible').click();
+// Keep the menu open when toggling Resources / Happenings dropdowns
+$('.navbar-collapse ul li a').click(function(event) {
+    var $link = $(this);
+    if ($link.data('toggle') === 'dropdown') {
+        event.preventDefault();
+        return;
+    }
+    if ($('.navbar-toggle').is(':visible')) {
+        // Delay so the browser can follow the link before the menu collapses
+        setTimeout(function() {
+            $('.navbar-collapse').collapse('hide');
+        }, 10);
+    }
 });

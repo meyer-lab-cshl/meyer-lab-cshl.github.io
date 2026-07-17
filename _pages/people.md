@@ -2,6 +2,7 @@
 layout: people
 title: People
 permalink: /people/
+image: /img/banners/hillsideview.jpeg
 ---
 
 
@@ -103,7 +104,7 @@ permalink: /people/
         <img src="/img/people/vasilisa-square.jpg" class="circular" alt="Vasilisa">
         <div class="desc">
             <strong>Vasilisa Kovaleva</strong><br>
-            Vasilisa is a Computational Science Developer. She received a B.Sc
+            Vasilisa is a PhD student at CSHL School of Biological Sciences. She received a B.Sc
             from Moscow State University and an M.Sc. from Skoltech University.
             She is interested in molecular mimicry and how it impacts the
             differentiation between self and foreign by adaptive immunity.
@@ -132,19 +133,6 @@ permalink: /people/
             studies human thymic epithelial cell development.
         </div>
     </div>
-    <div class="responsive gallery">
-        <img src="/img/people/nadia-square.png" class="circular" alt="Nadia">
-        <div class="desc">
-            <strong>Nadia Prasad</strong><br>
-            Nadia is a CSHL PREP student. She studies thymocyte development.
-            She received her Bachelor of Science in Cellular and Molecular Biology
-            from Cornell University.
-        </div>
-    </div>
-</div>
-
-
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/antonia-square.jpg" class="circular" alt="Antonia">
         <div class="desc">
@@ -179,6 +167,12 @@ permalink: /people/
         <img src="/img/people/2023_lab.jpeg"  alt="group-2023">
         <div class="desc">
             <strong>Meyer lab 2023</strong><br>
+        </div>
+    </div>
+    <div class="responsive gallery">
+        <img src="/img/people/2025_lab.jpeg" alt="group-2025">
+        <div class="desc">
+            <strong>Meyer lab 2025</strong><br>
         </div>
     </div>
 </div>

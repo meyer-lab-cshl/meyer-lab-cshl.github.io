@@ -161,7 +161,8 @@ header .intro-text .name {
 .page-banner-media {
     position: relative;
     width: 100%;
-    height: 300px;
+    /* Short on narrow screens so cover crops left/right and keeps the desktop vertical framing */
+    height: 160px;
     overflow: hidden;
     background: #fff;
 }
@@ -177,7 +178,8 @@ header .intro-text .name {
     height: 100%;
     margin: 0;
     object-fit: cover;
-    object-position: center;
+    /* Height-driven cover: same vertical slice at every width; sides crop on narrow screens */
+    object-position: center center;
 }
 
 .page-banner-top .page-banner-media img {
@@ -188,10 +190,8 @@ header .intro-text .name {
     object-position: center 70%;
 }
 
-@media (min-width: 768px) {
-    .page-banner-right .page-banner-media img {
-        object-position: 28% center;
-    }
+.page-banner-right .page-banner-media img {
+    object-position: 28% center;
 }
 
 .page-banner-fade .page-banner-media img {
@@ -204,7 +204,13 @@ header .intro-text .name {
 
 .page-banner-contain .page-banner-media img {
     object-fit: contain;
-    padding: 24px 0;
+    padding: 12px 0;
+}
+
+@media (min-width: 768px) {
+    .page-banner-contain .page-banner-media img {
+        padding: 24px 0;
+    }
 }
 
 .page-banner-caption {
@@ -213,7 +219,7 @@ header .intro-text .name {
     right: 0;
     bottom: 0;
     z-index: 2;
-    padding: 48px 28px 22px;
+    padding: 28px 18px 12px;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.2) 55%, transparent 100%);
 }
 
@@ -221,7 +227,7 @@ header .intro-text .name {
     margin: 0;
     max-width: 1100px;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1.8em;
+    font-size: 1.35em;
     font-weight: 700;
     text-transform: uppercase;
     color: #fff;

@@ -362,16 +362,14 @@ header .intro-text .name {
     text-align: justify;
 }
 
-.media-block-body h4 {
-    margin-top: 0;
-}
-
+.media-block-body h4,
 .section-heading {
-    margin-top: 2.75em;
+    margin-top: 0;
 }
 
-.section-heading:first-of-type {
-    margin-top: 0;
+/* Same vertical rhythm as .media-block on Research/Join */
+.section-body {
+    margin: 28px 0 56px;
 }
 
 .media-block.reverse {

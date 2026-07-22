@@ -9,7 +9,7 @@ banner_position: left
 
 <h4 class="section-heading">Preprints</h4>
 <hr>
-
+<div class="section-body">
 <p>
 Meyer HV*, Dasgupta S, Banerjee A, Lin Y, Prabakar R, Chapin SR, Kingsford C, Navlakha S*
 (2025) <a href="https://www.biorxiv.org/content/10.64898/2025.12.09.693230">
@@ -33,10 +33,11 @@ Yamrom B, Lee Y, Marks S, Chorbadjiev L, Meyer HV, Iossifov I (2022) <a
 href="https://www.biorxiv.org/content/10.1101/2022.12.08.519599v1">Snakeobjects:
 an object-oriented workflow management system</a>, bioRxiv, 2022.12.08.519599
 </p>
+</div>
 
 <h4 class="section-heading">Peer-reviewed</h4>
 <hr>
-
+<div class="section-body">
 <p>
 Banerjee A, Pattinson DJ, Wincek CL, Bunk P, Axhemi A, Chapin SR, Navlakha S*, Meyer HV*
 (2025) <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00257-8">
@@ -155,3 +156,4 @@ Beer R, Herbst K, Ignatiadis N, Kats I, Adlung L, Meyer HV, Niopek D, Christians
 Renner M, Wolf T, Meyer HV, Hartmann W, Penzel R, Ulrich A, Lehner B, Hovestadt V, Czwan E, Egerer G, Schmitt T, Alldinger I, Renker EK, Ehemann V, Eils R, Wardelmann E, Büttner R, Lichter P, Brors B, Schirmacher P, Mechtersheimer G. (2013) <a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-12-r137">Integrative DNA methylation and gene expression analysis in high-grade soft tissue sarcomas.</a>
 <i>Genome Biology</i>, 14:r137
 </p>
+</div>

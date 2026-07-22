@@ -1,4 +1,4 @@
-<header class="page-banner{% if page.banner_fit == 'contain' %} page-banner-contain{% endif %}{% if page.banner_position == 'bottom' %} page-banner-bottom{% endif %}{% if page.banner_position == 'top' %} page-banner-top{% endif %}{% if page.banner_position == 'right' %} page-banner-right{% endif %}{% if page.banner_fade or page.banner_opacity %} page-banner-fade{% endif %}"{% if page.banner_opacity %} style="--banner-opacity: {{ page.banner_opacity }};"{% endif %}>
+<header class="page-banner{% if page.banner_fit == 'contain' %} page-banner-contain{% endif %}{% if page.banner_position == 'bottom' %} page-banner-bottom{% endif %}{% if page.banner_position == 'top' %} page-banner-top{% endif %}{% if page.banner_position == 'right' %} page-banner-right{% endif %}{% if page.banner_position == 'left' %} page-banner-left{% endif %}{% if page.banner_fade or page.banner_opacity %} page-banner-fade{% endif %}"{% if page.banner_opacity %} style="--banner-opacity: {{ page.banner_opacity }};"{% endif %}>
     <div class="page-banner-media">
         {% if page.image %}
         <img src="{{ page.image }}" alt="{% if page.image_alt %}{{ page.image_alt }}{% endif %}">

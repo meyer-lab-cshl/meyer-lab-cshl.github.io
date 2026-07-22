@@ -194,6 +194,27 @@ header .intro-text .name {
     object-position: 28% center;
 }
 
+.page-banner-left .page-banner-media img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: auto;
+    height: 100%;
+    min-width: 118%;
+    object-fit: cover;
+    object-position: right center;
+}
+
+.page-banner-left .page-banner-caption {
+    padding-left: 40px;
+}
+
+@media (min-width: 768px) {
+    .page-banner-left .page-banner-caption {
+        padding-left: 56px;
+    }
+}
+
 .page-banner-fade .page-banner-media img {
     opacity: var(--banner-opacity, 0.72);
 }
@@ -341,8 +362,15 @@ header .intro-text .name {
     text-align: justify;
 }
 
-.media-block-body h4,
+.media-block-body h4 {
+    margin-top: 0;
+}
+
 .section-heading {
+    margin-top: 2.75em;
+}
+
+.section-heading:first-of-type {
     margin-top: 0;
 }
 

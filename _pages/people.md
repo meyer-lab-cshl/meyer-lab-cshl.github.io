@@ -3,6 +3,7 @@ layout: people
 title: People
 permalink: /people/
 image: /img/banners/hillsideview.jpeg
+banner_position: bottom
 ---
 
 

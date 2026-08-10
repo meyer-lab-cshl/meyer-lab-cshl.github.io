@@ -372,6 +372,31 @@ header .intro-text .name {
     margin: 28px 0 56px;
 }
 
+.news-image-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 12px 0;
+}
+
+.news-image-row img {
+    height: 280px;
+    width: auto;
+    max-width: 100%;
+    margin: 0;
+    object-fit: contain;
+}
+
+@media (max-width: 767px) {
+    .news-image-row img {
+        height: auto;
+        width: 100%;
+        max-width: 360px;
+    }
+}
+
 .media-block.reverse {
     flex-direction: row-reverse;
 }
@@ -871,6 +896,19 @@ hr.footer {
 }
 .ct-blog .fauxcrop img {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+.ct-blog .fauxcrop.fauxcrop-fit {
+    height: auto;
+    overflow: visible;
+    text-align: center;
+}
+.ct-blog .fauxcrop.fauxcrop-fit img {
+    width: 50%;
+    height: auto;
+    object-fit: contain;
 }
 .ct-blog-content {
     display: table;

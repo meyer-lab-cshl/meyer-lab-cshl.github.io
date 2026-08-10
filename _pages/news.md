@@ -8,6 +8,20 @@ image: /img/news/salome-goodbye.jpeg
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> July 28th, 2026 |</span>
+        <strong>Congratulations, Dr. Syed!</strong>
+        Maha successfully defended her thesis on Expanding Genetic Associations
+        Analysis.
+         </p>
+        <div class="news-image-row">
+        <img class="img-responsive rounded" src="/img/news/mahadefense1.jpg" alt="Maha thesis defense">
+        <img class="img-responsive rounded" src="/img/news/mahadefense2.jpg" alt="Maha thesis defense group">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> June 11th, 2026 |</span>
         <strong>Hannah selected as a Rita Allen Fellow!</strong>
         Hannah has been named a 2026 Rita Allen Foundation Scholar.

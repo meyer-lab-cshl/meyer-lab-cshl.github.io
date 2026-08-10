@@ -53,19 +53,18 @@ welcome: Welcome to the Meyer Lab
             <div class="ct-blog col-sm-6 col-md-4">
                 <center> <h4>NEWS</h4> </center>
                 <div class="inner">
-                    <div class="fauxcrop">
+                    <div class="fauxcrop fauxcrop-fit">
                         <a href="/news/"><img class="img-responsive" style="display:block; margin-left:
                         auto; margin-right: auto;
                         padding-right:15px;padding-left:15px;padding-top:0px;
-                        width:300px;height:auto;"
-                        src="/img/news/rita-allen-2026.jpg"></a>
+                        width:50%;height:auto;"
+                        src="/img/news/mahadefense1.jpg"></a>
                     </div>
                     <div class="ct-blog-content">
                         <div class="ct-blog-date">
-                            <strong>June, 2026</strong>
+                            <strong>July, 2026</strong>
                         </div>
-                        <h5 class="ct-blog-header">Hannah selected as a Rita
-                        Allen Fellow!</h5>
+                        <h5 class="ct-blog-header">Congratulations, Dr. Syed!</h5>
                     </div>
                 </div>
             </div>

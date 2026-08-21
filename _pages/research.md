@@ -132,9 +132,9 @@ tools that help us dissect these processes.
         <p>
         Meyer HV*, Dasgupta S, Banerjee A, Lin Y, Prabakar R, Chapin SR, Kingsford C, Navlakha S*
         (2025)
-        <a href="https://www.biorxiv.org/content/10.64898/2025.12.09.693230">
-        Sparse, random sampling is sufficient for central tolerance</a>,
-        bioRxiv, 10.64898/2025.12.09.693230 (in revision)
+        <a href="https://www.science.org/doi/10.1126/sciadv.aeg8240">
+        Central T cell tolerance from sparse peptide sampling</a>,
+        <i>Science Advances</i>, 12:eaeg8240
         </p>
         </div>
     </div>

@@ -11,11 +11,6 @@ banner_position: left
 <hr>
 <div class="section-body">
 <p>
-Syed M, Walter C, Meyer HV (2025) <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690541">
-plinkQC: An Integrated Tool for Ancestry Inference, Sample Selection, and Quality Control in Population Genetics</a>,
-bioRxiv, 10.1101/2025.11.25.690541 (in revision)
-</p>
-<p>
 Kovaleva VA, Pattinson DJ, Barton C, Chapin SR, Minervina AA, Richards KA, Sant
 AJ, Thomas PG*, Pogorelyy MV*, Meyer HV* (2025) <a
 href="https://www.biorxiv.org/content/10.1101/2023.11.28.569052v2">
@@ -32,6 +27,11 @@ an object-oriented workflow management system</a>, bioRxiv, 2022.12.08.519599
 <h4 class="section-heading">Peer-reviewed</h4>
 <hr>
 <div class="section-body">
+<p>
+Syed M, Walter C, Meyer HV (2026) <a href="https://academic.oup.com/bioinformatics/article/42/9/btag612/8761982">
+plinkQC: An Integrated Tool for Ancestry Inference, Sample Selection, and Quality Control in Population Genetics</a>,
+<i>Bioinformatics</i>, 42:btag612
+</p>
 <p>
 Meyer HV*, Dasgupta S, Banerjee A, Lin Y, Prabakar RK, Chapin SR, Kingsford C, Navlakha S*
 (2026) <a href="https://www.science.org/doi/10.1126/sciadv.aeg8240">

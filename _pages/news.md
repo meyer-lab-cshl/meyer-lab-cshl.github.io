@@ -8,6 +8,26 @@ image: /img/news/salome-goodbye.jpeg
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> September 3rd, 2026 |</span>
+        <strong>New paper alert</strong>
+         Maha's
+         <a href="https://academic.oup.com/bioinformatics/article/42/9/btag612/8761982">plinkQC</a>
+         paper is out in
+         <a href="https://academic.oup.com/bioinformatics/article/42/9/btag612/8761982"><i>Bioinformatics</i></a>:
+         an integrated toolkit for ancestry inference, sample selection, and
+         genotype QC in population genetics.
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/software/qc.png"
+        alt="plinkQC logo">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> August 21st, 2026 |</span>
         <strong>New paper alert</strong>
          With Saket Navlakha, we show that sparse peptide sampling is sufficient
@@ -21,6 +41,25 @@ image: /img/news/salome-goodbye.jpeg
         margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
         width:300px;height:auto;" src="/img/news/sparsesampling.png"
         alt="Figure: sparse peptide sampling model">
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> August 20th, 2026 |</span>
+        <strong>Hannah on the On AIRR podcast</strong>
+         Recorded live at the 4th Antwerp TCR meeting, Hannah joined Kilian
+         Schober and Hashem Koohy for a panel discussion on whether we can
+         predict which epitopes a given TCR recognises, and what that would
+         unlock for diagnostics and therapy. Listen to
+         <a href="https://onairr.podbean.com/e/on-airr-21-cracking-the-tcr-epitope-code-with-hannah-meyer-kilian-schober-and-hashem-koohy/">On AIRR 21: Cracking the TCR-epitope code</a>.
+         </p>
+        <div>
+        <img class="img-responsive rounded" style="display:block;
+        margin-left:auto; margin-right: auto; margin-top:12px;margin-bottom:12px;
+        width:300px;height:auto;" src="/img/news/onairr-logo.png"
+        alt="On AIRR podcast logo">
     </div>
     </div>
 </div>

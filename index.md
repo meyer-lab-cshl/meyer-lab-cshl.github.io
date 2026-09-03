@@ -55,14 +55,13 @@ welcome: Welcome to the Meyer Lab
                         auto; margin-right: auto;
                         padding-right:15px;padding-left:15px;padding-top:0px;
                         width:100%;height:100%;object-fit:cover;object-position:center;"
-                        src="/img/news/sparsesampling.png"></a>
+                        src="/img/software/qc.png"></a>
                     </div>
                     <div class="ct-blog-content">
                         <div class="ct-blog-date">
-                            <strong>August, 2026</strong>
+                            <strong>September, 2026</strong>
                         </div>
-                        <h5 class="ct-blog-header">New paper: sparse sampling
-                        and self-tolerance</h5>
+                        <h5 class="ct-blog-header">New paper: plinkQC</h5>
                     </div>
                 </div>
             </div>

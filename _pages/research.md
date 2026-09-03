@@ -176,10 +176,10 @@ tools that help us dissect these processes.
         <i>Bioinformatics</i>, btaf611
         </p>
         <p>
-        Syed M, Walter C, Meyer HV (2025)
-        <a href="https://www.biorxiv.org/content/10.1101/2025.11.25.690541">
+        Syed M, Walter C, Meyer HV (2026)
+        <a href="https://academic.oup.com/bioinformatics/article/42/9/btag612/8761982">
         plinkQC: An Integrated Tool for Ancestry Inference, Sample Selection, and Quality Control in Population Genetics</a>,
-        bioRxiv, 10.1101/2025.11.25.690541 (in revision)
+        <i>Bioinformatics</i>, 42:btag612
         </p>
         </div>
     </div>

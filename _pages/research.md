@@ -46,6 +46,14 @@ tools that help us dissect these processes.
         <div class="key-pubs">
         <p><strong>Key publications</strong></p>
         <p>
+        Prabakar RK, Chapin SR, Lin Y, Staklinski SJ, Netz DM, Lapine ME, Pruss D,
+        Cvetanovic T, Carcy SL, Torres J, Grosh A, Kiedrowski AJ, Pass HI, Mosca R,
+        Regan C, Preall J, Siepel A, Meyer HV (2026)
+        <a href="https://doi.org/10.64898/2026.10.29.762771">
+        Gene regulatory logic underlying the differentiation of mixed lineages in human thymic epithelial cells</a>,
+        bioRxiv, 10.64898/2026.10.29.762771
+        </p>
+        <p>
         Carter JA, Strömich L, Peacey M, Chapin SR, Velten L, Steinmetz LM, Brors B,
         Pinto S & Meyer HV (2022)
         <a href="https://www.nature.com/articles/s41467-022-31750-1">
@@ -104,6 +112,12 @@ tools that help us dissect these processes.
         Identification of Antigen-Specific T Cell Receptors with combinatorial peptide pooling</a>,
         bioRxiv, 10.1101/2023.11.28.569052 (in revision)
         </p>
+        <p>
+        Kovaleva VA, Meyer HV, McCandlish DM (2026)
+        <a href="https://doi.org/10.64898/2026.10.26.762018">
+        Dynamical consequences of context-dependent mutation: visualizing antibody sequence evolution during somatic hypermutation</a>,
+        bioRxiv, 10.64898/2026.10.26.762018
+        </p>
         </div>
     </div>
 </div>
@@ -130,8 +144,8 @@ tools that help us dissect these processes.
         <div class="key-pubs">
         <p><strong>Key publications</strong></p>
         <p>
-        Meyer HV*, Dasgupta S, Banerjee A, Lin Y, Prabakar R, Chapin SR, Kingsford C, Navlakha S*
-        (2025)
+        Meyer HV*, Dasgupta S, Banerjee A, Lin Y, Prabakar RK, Chapin SR, Kingsford C, Navlakha S*
+        (2026)
         <a href="https://www.science.org/doi/10.1126/sciadv.aeg8240">
         Central T cell tolerance from sparse peptide sampling</a>,
         <i>Science Advances</i>, 12:eaeg8240
@@ -180,6 +194,12 @@ tools that help us dissect these processes.
         <a href="https://academic.oup.com/bioinformatics/article/42/9/btag612/8761982">
         plinkQC: An Integrated Tool for Ancestry Inference, Sample Selection, and Quality Control in Population Genetics</a>,
         <i>Bioinformatics</i>, 42:btag612
+        </p>
+        <p>
+        Prabakar RK, Meyer HV (2026)
+        <a href="https://doi.org/10.64898/2026.11.03.764034">
+        gcat, its_a_scam: modular tools for single cell data processing and per-cell quality control</a>,
+        bioRxiv, 10.64898/2026.11.03.764034
         </p>
         </div>
     </div>

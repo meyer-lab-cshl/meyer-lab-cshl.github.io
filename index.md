@@ -55,13 +55,13 @@ welcome: Welcome to the Meyer Lab
                         auto; margin-right: auto;
                         padding-right:15px;padding-left:15px;padding-top:0px;
                         width:100%;height:100%;object-fit:cover;object-position:center;"
-                        src="/img/software/qc.png"></a>
+                        src="/img/news/20xmedulla.png"></a>
                     </div>
                     <div class="ct-blog-content">
                         <div class="ct-blog-date">
-                            <strong>September, 2026</strong>
+                            <strong>November, 2026</strong>
                         </div>
-                        <h5 class="ct-blog-header">New paper: plinkQC</h5>
+                        <h5 class="ct-blog-header">Three new lab preprints!</h5>
                     </div>
                 </div>
             </div>

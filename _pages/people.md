@@ -21,17 +21,6 @@ banner_position: bottom
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/people/amitava-square.jpg" class="circular" alt="Amitava">
-        <div class="desc">
-            <strong>Amitava Banerjee</strong><br>
-            Amitava is a joint postdoctoral fellow in  the Meyer and Navlakha
-            labs. He received his PhD in Physics from the University of Maryland
-            and currently studies how T cells learn to differentiate between self
-            and foreign peptides to mount immune responses against pathogens
-            while avoiding autoimmune reactions.
-        </div>
-    </div>
-    <div class="responsive gallery">
         <img src="/img/people/yong-square.jpg" class="circular" alt="Yong">
         <div class="desc">
             <strong>Yong Lin</strong><br>
@@ -42,7 +31,7 @@ banner_position: bottom
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/people/rish-square.jpeg" class="circular" alt="Salome">
+        <img src="/img/people/rish-square.jpeg" class="circular" alt="Rish">
         <div class="desc">
             <strong>Rishvanth Prabakar</strong><br>
         Rish is a postdoctoral fellow. He studies the interaction between T cells
@@ -50,20 +39,6 @@ banner_position: bottom
         selection which helps prevent auto immunity. He was previously trained in
         molecular and computational biology focusing on single cell genomics
         at the University of Southern California.
-        </div>
-    </div>
-
-</div>
-
-<div class="row">
-    <div class="responsive gallery">
-        <img src="/img/people/maha-square.jpg" class="circular" alt="Maha">
-        <div class="desc">
-            <strong>Maha Syed</strong><br>
-            Maha is a PhD student at CSHL School of Biological Sciences. She
-            majored in biochemistry with a minor in computer science at
-            University of Minnesota-Twin Cities. In the Meyer lab, she studies
-            the fundamentals of thymic selection.
         </div>
     </div>
     <div class="responsive gallery">
@@ -76,17 +51,9 @@ banner_position: bottom
             of Belgrade, Serbia.
         </div>
     </div>
-    <div class="responsive gallery">
-        <img src="/img/people/yunxin-square.jpg" class="circular" alt="Yunxin">
-        <div class="desc">
-            <strong>Yunxin Xie</strong><br>
-            Yunxin is a CSHL Ph.D. student jointly with Dr. Navlakha. She received
-            a B.Sc. in biological sciences from Tsinghua University,
-            where she studied mechanisms of transcription regulation. In the Meyer Lab,
-            she studies immune molecules, cells, and their interactions in space
-            and time.
-        </div>
-    </div>
+</div>
+
+<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/sarahc-square.jpg" class="circular" alt="Sarah C">
         <div class="desc">
@@ -98,9 +65,6 @@ banner_position: bottom
             presentation in the thymus.
         </div>
     </div>
-</div>
-
-<div class="row">
     <div class="responsive gallery">
         <img src="/img/people/vasilisa-square.jpg" class="circular" alt="Vasilisa">
         <div class="desc">
@@ -114,24 +78,15 @@ banner_position: bottom
         </div>
     </div>
     <div class="responsive gallery">
-        <img src="/img/people/deena-square.jpg" class="circular" alt="deena">
+        <img src="/img/people/urja-square.png" class="circular" alt="Urja Choudhary">
         <div class="desc">
-            <strong>Deena Netz</strong><br>
-            Deena is a research technician in the Meyer Laboratory.
-            She received a B.S. in Biology and Forensic Science from Syracuse
-            University. With a background in drug development and molecular
-            biology, she now focuses on researching human thymic epithelial
-            cell development.
-        </div>
-    </div>
-    <div class="responsive gallery">
-        <img src="/img/people/madison.jpeg" class="circular" alt="Madison">
-        <div class="desc">
-            <strong>Madison Lapine</strong><br>
-            Madison is a Research Technician in the Meyer Lab. She received a
-            B.S. in Biology (Biochemistry concentration) and a minor in Global
-            and Public Health at Emmanuel College, Boston. In the Meyer lab, she
-            studies human thymic epithelial cell development.
+            <strong>Urja Choudhary</strong><br>
+            Urja is a Research Technician in the Meyer Laboratory. She received
+            her BSc in Biotechnology from the University of Mumbai and her MSc
+            in Biotechnology from Northeastern University, Boston. With a
+            background in mechano-developmental biology and molecular biology,
+            and a keen interest in immunology, she now focuses on human thymic
+            epithelial cell development.
         </div>
     </div>
     <div class="responsive gallery">
@@ -142,6 +97,32 @@ banner_position: bottom
             her B.A. in Psychology from Hunter College. She supports our lab in
             all matters that relate to administration, recruitment, and
             organization.
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="responsive gallery">
+        <img src="/img/people/emily-square.jpg" class="circular" alt="Emily Goldstein">
+        <div class="desc">
+            <strong>Emily Goldstein</strong><br>
+            Emily is a research technician in the Meyer lab. She received a
+            B.S. in Biology and a minor in Digital and Data Studies from
+            Binghamton University. With a background in cancer research that
+            focused on epigenetics and immunology, she now studies human thymic
+            epithelial cell development.
+        </div>
+    </div>
+    <div class="responsive gallery">
+        <img src="/img/people/dominic-square.jpg" class="circular" alt="Dominic Pruss">
+        <div class="desc">
+            <strong>Dominic Pruss</strong><br>
+            Dominic is an undergraduate researcher in the Meyer Laboratory. He is
+            currently studying at Baylor University in the Science Research
+            Fellows program (Bioinformatics concentration) with a secondary major
+            in biochemistry. In the Meyer lab he studies the role of cell type and
+            tissue on cellular identity to help understand the identity of
+            medullary thymic epithelial cells.
         </div>
     </div>
 </div>
@@ -181,4 +162,3 @@ banner_position: bottom
 <div class="row">
     Check out what our Lab Alumni are up to now: <a href="/alumni/">Meyer Lab Alumni</a>
 </div>
-

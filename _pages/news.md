@@ -8,6 +8,47 @@ image: /img/news/salome-goodbye.jpeg
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> November 4th, 2026 |</span>
+        <strong>New preprint alert</strong>
+         Rish's preprint on
+         <a href="https://doi.org/10.64898/2026.11.03.764034">gcat and its_a_scam</a>
+         is out on bioRxiv. The two open-source tools provide modular
+         processing and per-cell quality control of single cell data, directly
+         from alignment files and without relying on proprietary pipelines.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> November 2nd, 2026 |</span>
+        <strong>New preprint alert</strong>
+         Our preprint on the
+         <a href="https://doi.org/10.64898/2026.10.29.762771">gene regulatory logic of human thymic epithelial cells</a>
+         is out on bioRxiv. Using matched single-cell gene expression and
+         chromatin accessibility of more than 125,000 human TECs, Rish and the
+         team show that lineage-committed TECs share a common ancestor and keep
+         a thymus-specific mixed identity.
+         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> October 27th, 2026 |</span>
+        <strong>New preprint alert</strong>
+         Vasilisa's preprint with David McCandlish,
+         <a href="https://doi.org/10.64898/2026.10.26.762018">Dynamical consequences of context-dependent mutation</a>,
+         is out on bioRxiv. It introduces a framework to visualize how
+         context-dependent mutation rates shape antibody sequence evolution
+         during somatic hypermutation.
+         </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> September 3rd, 2026 |</span>
         <strong>New paper alert</strong>
          Maha's

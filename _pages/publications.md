@@ -11,6 +11,26 @@ banner_position: left
 <hr>
 <div class="section-body">
 <p>
+Prabakar RK, Meyer HV (2026) <a
+href="https://doi.org/10.64898/2026.11.03.764034">
+gcat, its_a_scam: modular tools for single cell data processing and per-cell quality control</a>,
+bioRxiv, 10.64898/2026.11.03.764034
+</p>
+<p>
+Prabakar RK, Chapin SR, Lin Y, Staklinski SJ, Netz DM, Lapine ME, Pruss D,
+Cvetanovic T, Carcy SL, Torres J, Grosh A, Kiedrowski AJ, Pass HI, Mosca R,
+Regan C, Preall J, Siepel A, Meyer HV (2026) <a
+href="https://doi.org/10.64898/2026.10.29.762771">
+Gene regulatory logic underlying the differentiation of mixed lineages in human thymic epithelial cells</a>,
+bioRxiv, 10.64898/2026.10.29.762771
+</p>
+<p>
+Kovaleva VA, Meyer HV, McCandlish DM (2026) <a
+href="https://doi.org/10.64898/2026.10.26.762018">
+Dynamical consequences of context-dependent mutation: visualizing antibody sequence evolution during somatic hypermutation</a>,
+bioRxiv, 10.64898/2026.10.26.762018
+</p>
+<p>
 Kovaleva VA, Pattinson DJ, Barton C, Chapin SR, Minervina AA, Richards KA, Sant
 AJ, Thomas PG*, Pogorelyy MV*, Meyer HV* (2025) <a
 href="https://www.biorxiv.org/content/10.1101/2023.11.28.569052v2">

@@ -8,6 +8,27 @@ image: /img/banners/model.png
 <div class="software-list">
 <div class="media-block">
     <div class="media-block-image">
+        <img src="/img/software/scam.png" alt="its_a_scam aligned genomic regions by cell type">
+    </div>
+    <div class="media-block-body">
+        <p>
+            <a href="https://github.com/rishvanth-kp/its_a_scam"><strong>its_a_scam</strong></a><br>
+            its_a_scam - It's a scam To Sell Another Single Cell Analysis
+            Method: modular tools for processing and per-cell quality control of
+            single cell genomic data, built on the
+            <a href="https://github.com/rishvanth-kp/gcatlib">gcat</a> C++ library
+            and described in
+            <a href="https://doi.org/10.64898/2026.11.03.764034">Prabakar &amp; Meyer, <i>bioRxiv</i> (2026)</a>.
+            It works with common open-source tools to generate scRNA-seq and
+            scATAC-seq count matrices and computes quality metrics directly from
+            alignment files. Documentation is available at
+            <a href="https://its-a-scam.readthedocs.io/">its-a-scam.readthedocs.io</a>.
+        </p>
+    </div>
+</div>
+
+<div class="media-block">
+    <div class="media-block-image">
         <img class="software-logo" src="/img/software/batman.jpg" alt="BATMAN">
     </div>
     <div class="media-block-body">

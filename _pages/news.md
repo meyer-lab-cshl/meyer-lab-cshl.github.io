@@ -8,6 +8,22 @@ image: /img/news/salome-goodbye.jpeg
 <div class="row">
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
+        <p><span style="color:#b4bcc2"> November 16th, 2026 |</span>
+        <strong>New paper alert</strong>
+         Yong's paper on the
+         <a href="https://doi.org/10.1093/jimmun/vkag281">isolation and characterization of human thymic epithelial cells</a>
+         is out in <a href="https://doi.org/10.1093/jimmun/vkag281"><i>The Journal of Immunology</i></a>.
+         The step-by-step
+         <a href="https://www.protocols.io/view/isolation-of-human-thymic-epithelial-cells-x54v99781v3e/v1">protocol</a>
+         is on protocols.io, and the CSHL communications team has a
+         <a href="https://www.cshl.edu/finally-a-standard-for-studying-thymus-cells/">nice write-up</a>.
+         </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
         <p><span style="color:#b4bcc2"> November 4th, 2026 |</span>
         <strong>New preprint alert</strong>
          Rish's preprint on

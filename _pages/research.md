@@ -46,6 +46,12 @@ tools that help us dissect these processes.
         <div class="key-pubs">
         <p><strong>Key publications</strong></p>
         <p>
+        Lin Y, Lapine ME, Netz DM, Chapin SR, Prabakar RK, Meyer HV (2026)
+        <a href="https://doi.org/10.1093/jimmun/vkag281">
+        Isolation and characterization of human thymic epithelial cells</a>,
+        <i>The Journal of Immunology</i>, 215:vkag281
+        </p>
+        <p>
         Prabakar RK, Chapin SR, Lin Y, Staklinski SJ, Netz DM, Lapine ME, Pruss D,
         Cvetanovic T, Carcy SL, Torres J, Grosh A, Kiedrowski AJ, Pass HI, Mosca R,
         Regan C, Preall J, Siepel A, Meyer HV (2026)

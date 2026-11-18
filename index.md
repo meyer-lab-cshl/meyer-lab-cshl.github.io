@@ -26,8 +26,7 @@ welcome: Welcome to the Meyer Lab
             To get there we move between computation and experiment: building
             <i>in silico</i> and statistical models of selection, analysing genomics
             data from mouse and human thymus, and using imaging to place molecular
-            programmes back in tissue context. Along the way we also build tools for
-            predicting when a TCR will recognise related peptide variants.
+            programmes back in tissue context.
         </p>
         <p>
             Much of our current effort asks how cellular and molecular diversity arises
@@ -50,18 +49,11 @@ welcome: Welcome to the Meyer Lab
             <div class="ct-blog col-sm-6 col-md-4">
                 <center> <h4>NEWS</h4> </center>
                 <div class="inner">
-                    <div class="fauxcrop">
-                        <a href="/news/"><img class="img-responsive" style="display:block; margin-left:
-                        auto; margin-right: auto;
-                        padding-right:15px;padding-left:15px;padding-top:0px;
-                        width:100%;height:100%;object-fit:cover;object-position:center;"
-                        src="/img/news/20xmedulla.png"></a>
-                    </div>
                     <div class="ct-blog-content">
                         <div class="ct-blog-date">
                             <strong>November, 2026</strong>
                         </div>
-                        <h5 class="ct-blog-header">Three new lab preprints!</h5>
+                        <h5 class="ct-blog-header"><a href="/news/">New paper: a standard for studying human thymic epithelial cells</a></h5>
                     </div>
                 </div>
             </div>

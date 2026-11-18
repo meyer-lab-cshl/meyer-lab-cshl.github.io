@@ -48,6 +48,11 @@ an object-oriented workflow management system</a>, bioRxiv, 2022.12.08.519599
 <hr>
 <div class="section-body">
 <p>
+Lin Y, Lapine ME, Netz DM, Chapin SR, Prabakar RK, Meyer HV (2026) <a href="https://doi.org/10.1093/jimmun/vkag281">
+Isolation and characterization of human thymic epithelial cells</a>,
+<i>The Journal of Immunology</i>, 215:vkag281
+</p>
+<p>
 Syed M, Walter C, Meyer HV (2026) <a href="https://academic.oup.com/bioinformatics/article/42/9/btag612/8761982">
 plinkQC: An Integrated Tool for Ancestry Inference, Sample Selection, and Quality Control in Population Genetics</a>,
 <i>Bioinformatics</i>, 42:btag612
